@@ -23,7 +23,7 @@ description: Isabel Fulcher's Personal Page
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "http://isabelfulcher.github.io"
   Research: "research"
   Teaching: "teaching"
   CV: "cv"
