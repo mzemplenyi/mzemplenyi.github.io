@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Teaching experience
-subtitle: xx
+title: Teaching
+subtitle: 
 ---
 
-xx

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-subtitle: xx
+title: Curriculum Vitae
+subtitle: 
 ---
 
-[link to CV here]
+Link to CV coming soon!
