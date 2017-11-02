@@ -4,6 +4,8 @@ title: Teaching
 subtitle: 
 ---
 
+## Selected Experience
+
 <strong style="font-size: 125%;"> D-tree International (Zanzibar, Tanzania) </strong>  
 **Data Analysis and Stata Software Training Course**  
 _Course organizer and lead instructor, Summer 2017_  
@@ -18,12 +20,12 @@ Currently, I am a head teaching assistant for an introductory biostatistics and 
 
 **Stata Orientation for Incoming Graduate Students**  
 _Session Leader, Summer 2016 & Summer 2017_
-During orientation week at the school, new graduate students have the ability to attend a two-hour Stata training course. The goal of the course is to familiarize students with the Stata software, which is the primary software used in the introductory statistics courses at the school. Over the past two years, I have organized and led six of these sessions (one of which can be viewed <a href="https://mediasite.video.harvard.edu/Mediasite/Play/b3bd374f4b4845ad86c722c18254b39a1d"> here </a>). 
+During orientation week at the school, new graduate students have the ability to attend a two-hour Stata training course. The goal of the course is to familiarize students with the Stata software, which is the primary software used in the introductory statistics courses at the school. Over the past two years, I have organized and led six of these sessions (one of which can be viewed <a href="https://mediasite.video.harvard.edu/Mediasite/Play/b3bd374f4b4845ad86c722c18254b39a1d"> here</a>). 
 
 
 ---
 
-## Additional Experience 
+## Additional Experience
 
 <strong style="font-size: 125%;"> University of Global Health Equity (Kigali, Rwanda) </strong>  
 **Program Monitoring, Evaluation, and Research Methods**  
