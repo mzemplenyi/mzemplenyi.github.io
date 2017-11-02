@@ -24,11 +24,11 @@ _Teaching Assistant, Spring 2016_
 ## International Experience 
 
 
-###D-tree International (Zanzibar, Tanzania)
+### D-tree International (Zanzibar, Tanzania)
 **Employee Research and Stata Training**  
 _Course organizer and lead instructor, Summer 2017_
 
-###University of Global Health Equity (Kigali, Rwanda)
+### University of Global Health Equity (Kigali, Rwanda)
 **Program Monitoring, Evaluation, and Research Methods**  
 _Remote Teaching Assistant, Spring 2017_
 
