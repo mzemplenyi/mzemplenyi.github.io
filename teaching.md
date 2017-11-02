@@ -6,7 +6,8 @@ subtitle: [under construction]
 
 ## Domestic Experience
 
-### Harvard T.H. Chan School of Public Health (Boston, MA)
+<strong style="font-size: 125%;"> Harvard T.H. Chan School of Public Health (Boston, MA) </strong>  
+
 
 **ID201: Core Principles of Biostatistics and Epidemiology for Public Health Practice**  
 _Head TA, Fall 2016 & Fall 2017_
@@ -24,11 +25,11 @@ _Teaching Assistant, Spring 2016_
 ## International Experience 
 
 
-<strong style="font-size: 120%;"> D-tree International (Zanzibar, Tanzania) </strong>  
+<strong style="font-size: 125%;"> D-tree International (Zanzibar, Tanzania) </strong>  
 **Employee Research and Stata Training**  
-_Course organizer and lead instructor, Summer 2017_
+_Course organizer and lead instructor, Summer 2017_  
 
-### University of Global Health Equity (Kigali, Rwanda)
+<strong style="font-size: 125%;"> University of Global Health Equity (Kigali, Rwanda) </strong>  
 **Program Monitoring, Evaluation, and Research Methods**  
 _Remote Teaching Assistant, Spring 2017_
 
