@@ -24,7 +24,7 @@ _Teaching Assistant, Spring 2016_
 ## International Experience 
 
 
-<strong> D-tree International (Zanzibar, Tanzania) </strong>
+<p style="font-size: 150%;"> D-tree International (Zanzibar, Tanzania) </p>  
 **Employee Research and Stata Training**  
 _Course organizer and lead instructor, Summer 2017_
 
