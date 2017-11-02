@@ -47,7 +47,7 @@ _Teaching Assistant, Spring 2016_
 _Teaching Assistant, Fall 2015_
 
 
-<strong style="font-size: 125%;"> McGill University (Montreal, QC) </strong> 
+<strong style="font-size: 125%;"> McGill University (Montreal, QC) </strong>  
 **MATH 324: Statistics**  
 _Teaching Assistant, Spring 2012_
 
