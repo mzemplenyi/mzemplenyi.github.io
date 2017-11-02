@@ -29,11 +29,8 @@ I developed and taught an 8-week long statistical training course at the Zanziba
 
 ![alt text](https://isabelfulcher.github.io/img/training.jpg "Two trainees work together (July 2017)")
 
-            	  <figure>
-                <img src="img/training.jpg" width = 340 height = 325 alt="IsabelFulcher">
-                <figcaption> <small> <i> Two trainees work together (July 2017) </i> </small> </figcaption>
-                </figure>
-
+<img src="https://isabelfulcher.github.io/img/training.jpg" 
+alt="Two trainees work together" width="240" height="180" border="10" />
 
 <strong style="font-size: 125%;"> University of Global Health Equity (Kigali, Rwanda) </strong>  
 **Program Monitoring, Evaluation, and Research Methods**  
