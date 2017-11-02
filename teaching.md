@@ -10,9 +10,9 @@ subtitle:
 **Data Analysis and Stata Software Training Course**  
 _Course organizer and lead instructor, Summer 2017_  
 I developed and taught an 8-week long statistical training course at the Zanzibar D-tree office. The trainees were D-tree International employees and their key partners at the Ministry of Health. The goal of the course was to equip trainees with tools to identify and answer pressing research questions that arose from the <a href="http://www.d-tree.org/saving-lives/womens-lives/safer-deliveries/"> Safer Deliveries </a> program in which they were all involved. The specific skills taught in this course were as follows:  
-* Understanding of common statistical and epidemiological methods
-* Analyzing data in Stata (statistical software package)
-* Presentation of results 
+* Understanding of common statistical and epidemiological methods  
+* Analyzing data in Stata (statistical software package)  
+* Presentation of results  
 The course ran for 8 weeks and was organized into weekly 3-hour training sessions that involved a short lecture and an activity. All of the lectures and activities were geared towards the Safer Deliveries program; throughout the course, the trainees worked in pairs on a specific research question and applied the statistical and computing tools they acquired from the session. At the end of the training, the trainees presented their research results to the broader organization. 
 <img src="https://isabelfulcher.github.io/img/training.png" align="middle"
 alt="training" width="720" height="160" border="10" />
