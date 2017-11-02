@@ -4,6 +4,8 @@ title: Teaching
 subtitle: [under construction]
 ---
 
+## Domestic Experience
+
 ### Harvard T.H. Chan School of Public Health (Boston, MA)
 
 **ID201: Core Principles of Biostatistics and Epidemiology for Public Health Practice**  
@@ -19,13 +21,14 @@ _Stata Support, Sping 2017_
 _Teaching Assistant, Spring 2016_
 
 
-### International Experience 
+## International Experience 
 
-#### D-tree International (Zanzibar, Tanzania)
+
+###D-tree International (Zanzibar, Tanzania)
 **Employee Research and Stata Training**  
 _Course organizer and lead instructor, Summer 2017_
 
-#### University of Global Health Equity (Kigali, Rwanda)
+###University of Global Health Equity (Kigali, Rwanda)
 **Program Monitoring, Evaluation, and Research Methods**  
 _Remote Teaching Assistant, Spring 2017_
 
