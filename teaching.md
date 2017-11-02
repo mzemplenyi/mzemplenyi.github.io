@@ -4,7 +4,7 @@ title: Teaching
 subtitle: 
 ---
 
-<h1>Selected Experience</h1>
+## Selected Experience
 
 <strong style="font-size: 125%;"> D-tree International (Zanzibar, Tanzania) </strong>  
 **Data Analysis and Stata Software Training Course**  
@@ -13,6 +13,7 @@ I developed and taught an 8-week long statistical training course at the Zanziba
 * Understanding of common statistical and epidemiological methods  
 * Analyzing data in Stata (statistical software package)  
 * Presentation of results  
+
 The course ran for 8 weeks and was organized into weekly 3-hour training sessions that involved a short lecture and an activity. All of the lectures and activities were geared towards the Safer Deliveries program; throughout the course, the trainees worked in pairs on a specific research question and applied the statistical and computing tools they acquired from the session. At the end of the training, the trainees presented their research results to the broader organization. 
 <img src="https://isabelfulcher.github.io/img/training.png" align="middle"
 alt="training" width="720" height="160" border="10" />
@@ -29,7 +30,7 @@ During orientation week at the school, new graduate students have the ability to
 
 ---
 
-<h1>Additional Experience</h1>
+## Additional Experience
 
 <strong style="font-size: 125%;"> University of Global Health Equity (Kigali, Rwanda) </strong>  
 **Program Monitoring, Evaluation, and Research Methods**  
