@@ -41,8 +41,7 @@ _Teaching Assistant, Fall 2015_
 
 
 <strong style="font-size: 125%;"> McGill University (Montreal, QC) </strong> 
-
-**MATH 324: Core Principles of Biostatistics and Epidemiology for Public Health Practice**  
+**MATH 324: Statistics**  
 _Teaching Assistant, Spring 2012_
 
 **MATH 323: Probability**  
