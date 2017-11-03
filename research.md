@@ -13,7 +13,7 @@ I am interested in developing statistical techniques that will enable scientists
 
 
 <strong style="font-size: 100%;"> (1) Estimation of indirect causal effects of a confounded treatment </strong>  
-The goal of this work is to develop methodology to identify and estimate the extent to which the exposure affects the outcome through an intermediate variable in a setting where the exposure-outcome relation may be subject to unmeasured confounding. This is known as the ``population intervention indirect effect". I have developed a <a href="https://isabelfulcher.github.io/frontdoorpiie/"> R package</a> for application of the methods. Draft of paper coming soon.   
+The goal of this work is to develop methodology to identify and estimate the extent to which the exposure affects the outcome through an intermediate variable in a setting where the exposure-outcome relation may be subject to unmeasured confounding. This is known as the "population intervention indirect effect". I have developed a <a href="https://isabelfulcher.github.io/frontdoorpiie/"> R package</a> for application of the methods. Draft of paper coming soon.   
 
 <strong style="font-size: 100%;"> (2) Estimation and inference of causal treatment effects on a network </strong>  
 The proposed method will allow one to estimate causal effects in vaccine trials for infectious diseases on a network of interconnected indiviudals, while acknowledging complex dependencies in the data. These methods can be applied in a variety of settings in the health and socials sciences where network data are available. Draft of related <a href="https://arxiv.org/abs/1709.01577"> paper</a> is currently available. R package coming soon.  
