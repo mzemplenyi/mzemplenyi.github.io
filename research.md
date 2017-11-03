@@ -9,7 +9,7 @@ subtitle: [under construction]
 Harvard University (Cambridge, MA)  
 _Supervised by: Dr. Eric Tchetgen Tchetgen_  
 
-I am interested in developing statistical techniques that will enable scientists to infer causation about an intervention of interest in settings where the standard randomized experiment may be impractical, unethical, or insufficient such that **observational studies** or more complex experimental designs must be used. The current causal inference literature provides a framework for handling such situations, but the standard methods often require stringent assumptions, such as (1) no **unmeasured confounding** of the relationship of interest or (2) no **spillover effects** of the intervention given to one person on another person's outcome. The goal of my work is to develop new methods when each of these conditions are relaxed.  
+I am interested in developing statistical techniques that will enable scientists to infer causation about an intervention of interest in settings where the standard randomized experiment may be impractical, unethical, or insufficient such that observational studies or more complex experimental designs must be used. The current causal inference literature provides a framework for handling such situations, but the standard methods often require stringent assumptions, such as (1) no unmeasured confounding of the relationship of interest or (2) no spillover effects of the intervention given to one person on another person's outcome. The goal of my work is to develop new methods when each of these conditions are relaxed.  
 
 
 <strong style="font-size: 100%;"> (1) Estimation of indirect causal effects of a confounded treatment </strong>  
