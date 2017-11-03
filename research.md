@@ -4,10 +4,10 @@ title: Research
 subtitle: [under construction]
 ---
 
-## Dissertation work 
-<strong style="font-size: 120%;"> Harvard University (Cambridge, MA) </strong>  
-_"Challenges in causal inference: unmeasured confounding and spillover effects on a network"_  
-Supervised by: Dr. Eric Tchetgen Tchetgen  
+## Dissertation work  
+<strong style="font-size: 120%;"> Causal inference methods development </strong>  
+Harvard University (Cambridge, MA)  
+_Supervised by: Dr. Eric Tchetgen Tchetgen_  
 
 <strong style="font-size: 100%;"> I. Estimation and inference for causal effects in netwok data  </strong>  
 
@@ -17,15 +17,12 @@ Supervised by: Dr. Eric Tchetgen Tchetgen
 
 ---
 
-## Consulting experience 
+## Consulting experience  
 
-<strong style="font-size: 120%;"> D-tree International </strong>  
-_Statistical Consultant_  
+<strong style="font-size: 120%;"> Safer Deliveries </strong>  
+D-tree International (Zanzibar, Tanzania)  
 
-<strong style="font-size: 100%;"> Safer Deliveries (Zanzibar, Tanzania) </strong>  
+<strong style="font-size: 120%;"> Mobilizing Maternal Health </strong>  
+D-tree International (Dar es Salaam, Tanzania)  
 
-<strong style="font-size: 100%;"> Mobilizing Maternal Health (Tanzania mainland) </strong>  
 
-
-<strong style="font-size: 120%;"> Planned Parenthood League of Massachusetts Research Center (Boston, MA) </strong>  
-_Statistical Consultant_   
