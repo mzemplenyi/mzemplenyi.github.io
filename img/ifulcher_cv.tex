@@ -1,0 +1,208 @@
+% !TEX TS-program = LuaLaTeX
+
+\documentclass[12pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage{fontawesome}
+\usepackage{enumitem}
+\usepackage{scrextend}
+\usepackage{etaremune}
+\usepackage{mathptmx}
+%\usepackage{tgtermes}
+\usepackage{color}
+
+% use http link for email
+\usepackage[colorlinks = true,
+          allcolors = PineGreen]{hyperref}            
+            
+%allow formula formatting
+\usepackage{amsmath}
+%\DeclareMathAlphabet\mathbfcal{OMS}{cmsy}{b}{n}
+\usepackage{comment}
+
+%title positon
+\usepackage{titling} %fix title
+\setlength{\droptitle}{-6em}   % Move up the title 
+
+%change section title font size
+\usepackage{titlesec}
+\titleformat{\section}
+  {\normalfont\fontsize{12}{15}}{\thesection}{1em}{}[{\titlerule[0.5pt]}]
+  
+\titleformat{\subsection}
+  {\normalfont\fontsize{12}{13}}{\thesection}{1em}{}
+
+% change page margin and cancel identation
+\usepackage[top=0.6in, bottom=0.8in, left=0.5in, right=0.5in]{geometry} 
+\setlength{\parindent}{0pt}
+
+%allow modifying section titles 
+\usepackage[dvipsnames]{xcolor}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+    \setlength{\itemsep}{0in}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+\newcommand{\MYhref}[3][blue]{\href{#2}{\color{#1}{#3}}}%
+	\begin{center}
+	\textbf{
+			{\huge I}{\Large SABEL} \hspace{-0.1em} 
+			{\huge F}{\Large ULCHER}}\\
+\end{center}
+\begin{minipage}[t]{0.5\linewidth}
+\begin{flushleft}
+     \MYhref[black]{mailto:isabelfulcher@g.harvard.edu}{isabelfulcher@g.harvard.edu} \\
+    \MYhref[black]{http://orcid.org/0000-0002-1209-824X}{ORCID: 0000-0002-1209-824X} 
+         \end{flushleft}
+\end{minipage}
+\begin{minipage}[t]{0.5\linewidth} 
+    \begin{flushright}  
+    %\vspace*{1mm} 
+    {\LARGE
+  \href{http://isabelfulcher.github.io}{\faFirefox} \href{https://github.com/isabelfulcher}{\faGithub}  \href{https://scholar.google.com/citations?user=0-9RLbQAAAAJ&hl=en}{\faGoogle} \href{https://twitter.com/isabelfulcher}{\faTwitter} \href{mailto:isabelfulcher@g.harvard.edu}{\faEnvelope }   \par
+    }
+    \end{flushright}  
+\end{minipage}
+
+
+%% Education
+\section*{\textbf{{\Large E}{\small DUCATION}}}
+
+%\textbf{Harvard University} \hfill \hfill Cambridge, MA
+%
+%Doctor of Philosophy, Biostatistics \hfill \hfill Expected: May 2019
+%
+%Masters of Arts, Biostatistics \hfill \hfill May 2016
+%
+%\vspace{.5cm}
+%
+%\textbf{McGill University} \hfill \hfill Montreal, QC \\
+%Bachelor of Arts and Science, Mathematics and Anthropology \hfill \hfill May 2012 \\
+
+
+\textbf{Doctor of Philosophy}, Biostatistics \hfill \hfill Expected: May 2019 \\
+Harvard University, Cambridge, MA \\
+
+\textbf{Masters of Arts}, Biostatistics \hfill \hfill May 2016 \\
+Harvard University, Cambridge, MA \\
+
+\textbf{Bachelor of Arts and Science}, Mathematics and Anthropology \hfill \hfill May 2012 \\
+McGill University, Montreal, QC
+
+
+%% Research Experience
+\section*{\textbf{{\Large R}{\small ESEARCH} {\Large E}{\small XPERIENCE}}}
+
+\textbf{Department of Biostatistics, Harvard T.H. Chan School of Public Health \hfill \hfill Boston, MA} \\
+\textit{Graduate Researcher}  \hfill \hfill January 2016 -- Present \\
+Dissertation Advisor: \href{https://statistics.wharton.upenn.edu/profile/ett/}{Eric Tchetgen Tchetgen, PhD} 
+\begin{addmargin}[1em]{2em} My dissertation research aims to develop statistical methods to enable scientists to infer causation about an intervention of interest in the presence of (1) unmeasured confounding of the relationship of interest and (2) spillover effects of the intervention given to one person on another person's outcomes. \end{addmargin} 
+\vspace{.2cm}
+\textit{Graduate Researcher} \hfill \hfill June 2016 -- March 2017 \\
+Supervised by: \href{https://www.hsph.harvard.edu/paige-williams/}{Paige Williams, PhD} 
+\begin{addmargin}[1em]{2em}  Estimated the direct and indirect effects of perinatal HIV infection on timing of sexual maturity mediated by height in the Pediatric HIV/AIDS Cohort Study. \end{addmargin} 
+\vspace{.2cm}
+\textbf{Department of Global Health and Social Medicine, Harvard Medical School \hfill \hfill Boston, MA} \\
+\textit{Graduate Researcher} \hfill \hfill June 2016 -- March 2017 \\
+Supervised by: \href{https://ghsm.hms.harvard.edu/person/faculty/bethany-hedt-gauthier}{Bethany Hedt-Gauthier, PhD} 
+\begin{addmargin}[1em]{2em} Assessed the effectiveness of D-tree International's Mobilizing Maternal Health program in rural Tanzania. \end{addmargin}
+
+
+%% Consulting Experience
+\section*{\textbf{{\Large C}{\small ONSULTING} {\Large E}{\small XPERIENCE}}}
+\textbf{Research Center, Planned Parenthood League of Massachusetts \hfill \hfill Boston, MA}  \\
+\textit{ Statistical Consultant} \hfill \hfill August 2017 -- Present
+\begin{addmargin}[1em]{2em} Leading statistical analyses to evaluate the impact of the Massachusetts parental consent law on contraceptive choice among minors. \\ \end{addmargin} 
+
+\textbf{Safer Deliveries Program, D-tree International \hfill \hfill Zanzibar, Tanzania} \\
+\textit{Researcher} \hfill \hfill May 2017 -- August 2017 
+\begin{addmargin}[1em]{2em} Conducted research and evaluation question development, analysis planning, and application of statistical methods to assess the program's effectiveness at reducing high rates of maternal and neonatal mortality in Zanzibar. \end{addmargin}
+
+%% Industry Experience
+\section*{\textbf{{\Large I}{\small NDUSTRY} {\Large E}{\small XPERIENCE}}}
+\textbf{ZS Associates \hfill \hfill Evanston, IL} \\
+\textit{Business Associate} \hfill \hfill September 2012 -- July 2014
+\begin{addmargin}[1em]{2em} 
+	Engaged with global pharmaceutical and biotech companies on a variety of market research projects for drugs and their indications. Created and fielded online surveys and in-person interviews. Led statistical analysis, project planning, and deliverable creation.
+\end{addmargin}
+
+%% Teaching Experience
+\section*{\textbf{{\Large T}{\small EACHING} {\Large E}{\small XPERIENCE}}}
+\textbf{Global Initiative for Neuropsychiatric Genetics Education in Research \hfill \hfill Boston, MA} \\
+\textit{Teaching Fellow} \hfill \hfill Spring 2018 \\
+
+\textbf{Harvard T.H. Chan School of Public Health \hfill \hfill Boston, MA} \\
+\textit{Head Teaching Assistant}, ID 201: Core Principles of Biostatistics and Epidemiology \hfill \hfill Fall 2016, 2017 \\
+\textit{Session Instructor}, Stata Orientation for Incoming Graduate Students \hfill \hfill	Summer 2016, 2017 \\
+\textit{Teaching Assistant}, HPM 543: Quantitative Methods in Program Evaluation \hfill \hfill Spring 2017 \\
+\textit{Teaching Assistant}, BIO 507: Methods for Monitoring and Evaluation \hfill \hfill Spring 2016 \\
+\textit{Teaching Assistant}, ID 201: Core Principles of Biostatistics and Epidemiology \hfill \hfill Fall 2015 \\
+
+\textbf{University of Global Health Equity \hfill \hfill Kigali, Rwanda} \\
+\textit{Teaching Assistant}, Program Monitoring, Evaluation, and Research Methods  \hfill \hfill Spring 2017, 2018 \\
+
+\textbf{D-tree International \hfill \hfill Zanzibar, Tanzania}\\
+\textit{Course Organizer and Lead Instructor}, Data Analysis and Stata Software Training Course \hfill \hfill Summer 2017  \\
+
+\textbf{McGill University \hfill \hfill Montreal, QC}\\
+\textit{Teaching Assistant}, MATH 323: Probability \hfill \hfill Fall 2010, 2011 \\
+\textit{Teaching Assistant}, MATH 324: Statistics \hfill \hfill Spring 2012 
+
+% Honors and Awards
+\section*{\textbf{{\Large H}{\small ONORS} {\Large \&} {\Large A}{\small WARDS}}}
+
+\textbf{Harvard University Distinction in Teaching} {\footnotesize (outstanding teaching assistant during 2016-2017 school year)}\hfill \hfill	2017 \\
+\textbf{Harvard T.H. Chan School of Public Health Rose Traveling Fellowship} \hfill \hfill	2017 \\
+\textbf{Maternal Health Task Force at the Women and Health Initiative Travel Award} \hfill \hfill	2017 \\
+\textbf{Statistics in Epidemiology Young Investigator Award} {\footnotesize (1 of 4 graduate students to win best paper in Epidemiology)}  \hfill \hfill	2017 \\
+\textbf{McGill University Dean's Honour List} {\footnotesize (awarded to top 10\% of graduating class)}  \hfill \hfill	2012 \\
+\textbf{McGill University Golden Key Society} {\footnotesize (awarded to top 15\% of class)}  \hfill \hfill2010, 2011, 2012 
+
+% Selected Involvement
+\section*{\textbf{{\Large S}{\small ELECTED} {\Large I}{\small NVOLVEMENT}}}
+\textbf{Department of Biostatistics Chair of the Student Committee} \hfill \hfill 2017, 2018 \\
+\textbf{Harvard T.H. Chan School of Public Health Student Tutor} \hfill \hfill 2017 \\
+\textbf{Department of Biostatistics HIV Working Group Coordinator} \hfill \hfill 2016, 2017 \\
+\textbf{Boston Cares X-Cel Adult Education Math HiSeT Tutor} \hfill \hfill 2014 -- 2017 \\
+\textbf{Appalachia Service Project, Adult Group Leader} \hfill \hfill 2012, 2013
+
+% Peer-Reviewed Publications
+\section*{\textbf{{\Large P{\small UBLICATIONS}}}}
+
+Tchetgen Tchetgen, Eric J., \textbf{Fulcher, I.}, and Shpitser, I. (2017). Auto-G-Computation of Causal Effects on a Network. Journal of the American Statistical Association (Under review). arXiv:1709.01577. \\
+
+\textbf{Fulcher, Isabel R.}, Shpitser, I., \& Tchetgen Tchetgen, E. J. (2017). The Generalized Front-door Criterion for Estimation of Indirect Causal Effects of a Confounded Treatment. Journal of the American Statistical Association (Under review). arXiv:1711.03611. \\
+
+\textbf{Fulcher, Isabel R.}, Tchetgen Tchetgen, E. J., \& Williams, P. L. (2017). Mediation Analysis for Censored Survival Data Under an Accelerated Failure Time Model. Epidemiology, 28(5), 660-666. 
+
+% Presentations
+\section*{\textbf{{\Large P}{\small RESENTATIONS}}}
+
+\textbf{Fulcher, Isabel R.,} Data for decision-making in digital health programs: how analysis of routine data from the Safer Deliveries program in Zanzibar improved program implementation and mothers' outcomes. Global Digital Health Forum, Washington, DC (2017). \\
+
+\textbf{Fulcher, Isabel R.,} Tchetgen Tchetgen, E., and Williams, P.L. Mediation Analysis for Censored Survival Data under an Accelerated Failure Time Model. Joint Statistical Meetings, Baltimore, MD (2017). \\
+
+\textbf{Fulcher, Isabel R.,} Tchetgen Tchetgen, E., and Shpitser, I. The Generalized Front-door Formula for Identification of Partial Causal Effects. ENAR Spring Meeting, Washington, DC (2017). \\
+
+\textbf{Fulcher, Isabel R.,} Tchetgen Tchetgen, E., and Williams, P.L. Mediation Analysis for Censored Survival Data under an Accelerated Failure Time Model. ENAR Spring Meeting, Austin, TX (2016). 
+
+
+% Software
+\section*{\textbf{{\Large S}{\small OFTWARE} }}
+
+{\bf \href{https://github.com/isabelfulcher/frontdoorpiie}{frontdoorpiie}} R package for estimation and inference of the Population Intervention Indirect Effect \\
+
+%\textbf{Advanced:} R, Stata, Microsoft Excel, LaTeX, Microsoft Powerpoint \\
+%\textbf{Intermediate:} SAS, SPSS, Microsoft Access \\ 
+%\textbf{Basic:} Python, HTML
+
+
+
+\end{document}
