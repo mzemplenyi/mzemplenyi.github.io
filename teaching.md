@@ -4,6 +4,8 @@ title: Teaching
 subtitle: 
 ---
 
+<img src="https://isabelfulcher.github.io/img/harvard.png"
+     style="float: left; margin-right: 10px;" />
 <strong style="font-size: 125%;"> Methods and Computing in R </strong>  
 **Harvard T.H. Chan School of Public Health (Boston, MA)**  
 _Instructor, Summer 2018_  
