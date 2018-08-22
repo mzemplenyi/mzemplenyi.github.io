@@ -34,6 +34,25 @@ direct effect of the exposure on the outcome, not through the mediator. Standard
 
 ## Interference / network data
 
+
+<div class="container">
+    	<div class="row">
+            <div class="col-md-6">
+ <p>This work provides methodology to estimate network causal effects in the presence of arbitrary forms of interference, whereby the outcome of a unit may depend on interventions received by other units with whom a network path through connected units exists; and long range dependence, whereby outcomes for any two units likewise connected by a path may be dependent. These methods are widely applicable to social networks, vaccine studies, and infectious disease settings.</p>
+            </div>
+            <div class="col-md-6"> 
+            	<br><br><br>
+            	  <figure>
+                <img src="https://isabelfulcher.github.io/img/network.png" width = 220 height = 190 alt="IsabelFulcher">
+                <figcaption> <small> <i> Fig.2 - network with outcome shaded by color 
+     and treatment by shape </i> </small> </figcaption>
+                </figure>
+		</div>
+	    </div><!-- row -->
+    </div> <!-- /container -->
+
+
+<!---
 <figure>
 <img src="https://isabelfulcher.github.io/img/network.png"
      align="right"
@@ -41,7 +60,7 @@ direct effect of the exposure on the outcome, not through the mediator. Standard
      <figcaption> Fig.2 - network with outcome shaded by color 
      and treatment by shape </figcaption>
 </figure>
-This work provides methodology to estimate network causal effects in the presence of arbitrary forms of interference, whereby the outcome of a unit may depend on interventions received by other units with whom a network path through connected units exists; and long range dependence, whereby outcomes for any two units likewise connected by a path may be dependent. These methods are widely applicable to social networks, vaccine studies, and infectious disease settings.  
+--->
 
 **(1) Auto-G-Computation of Causal Effects on a Network**
 + **Collaborators:** Ilya Shpitser and Eric Tchetgen Tchetgen 
