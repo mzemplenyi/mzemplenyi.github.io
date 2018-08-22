@@ -18,9 +18,6 @@ _Course developer and instructor, Summer 2017_
 + **Description:** An 8-week long statistical training course for D-tree International employees and their key partners at the Ministry of Health. The goal of the course was to equip trainees with tools to identify and answer pressing research questions that arose from the maternal and child health program in which they were all involved. 
 + **Materials:** Contact for more information
 
-<img src="https://isabelfulcher.github.io/img/training.png" align="middle"
-alt="training" width="720" height="160" border="10" />
-
 <strong style="font-size: 125%;"> Stata Orientation for Incoming Graduate Students </strong>  
 **Harvard T.H. Chan School of Public Health (Boston, MA)**  
 _Instructor, Summer 2016, 2017, 2018_  
