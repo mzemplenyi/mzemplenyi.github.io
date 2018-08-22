@@ -6,7 +6,7 @@ subtitle:
 
 <img src="https://isabelfulcher.github.io/img/harvard.png"
      style="float: right; margin-right: 10px;"
-     width="120" height="100" />
+     width="120" height="120" />
 <strong style="font-size: 125%;"> Methods and Computing in R </strong>  
 **Harvard T.H. Chan School of Public Health (Boston, MA)**  
 _Instructor, Summer 2018_  
@@ -25,7 +25,7 @@ _Course developer and instructor, Summer 2017_
 
 <img src="https://isabelfulcher.github.io/img/hsph.png"
      style="float: right; margin-right: 10px;"
-     width="80" height="100" />
+     width="120" height="120" />
 <strong style="font-size: 125%;"> Stata Orientation for Incoming Graduate Students </strong>  
 **Harvard T.H. Chan School of Public Health (Boston, MA)**  
 _Instructor, Summer 2016, 2017, 2018_  
