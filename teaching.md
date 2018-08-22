@@ -5,7 +5,8 @@ subtitle:
 ---
 
 <img src="https://isabelfulcher.github.io/img/harvard.png"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;"
+     width="200" height="200" />
 <strong style="font-size: 125%;"> Methods and Computing in R </strong>  
 **Harvard T.H. Chan School of Public Health (Boston, MA)**  
 _Instructor, Summer 2018_  
@@ -24,7 +25,7 @@ _Instructor, Summer 2016, 2017, 2018_
 + **Description:** A two-hour introduction to Stata course for incoming graduate students
 + **Materials:**<a href="https://www.hsph.harvard.edu/orientation/stata-module/"> Online Stata module</a> 
 
-
+I have also served as a teaching assistant and research mentor for numerous other courses. Please see my <a href="https://isabelfulcher.github.io/img/ifulcher_cv.png"> CV</a> for a full list. 
 
 <!---
 ## Additional Experience _(by location)_
