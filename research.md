@@ -5,10 +5,12 @@ subtitle:
 ---
 
 ## Causal mediation analysis 
-
+<figure>
 <img src="https://isabelfulcher.github.io/img/mediation.png"
      style="float: left; margin-right: 10px;"
      width="250" height="200" /> 
+<figcaption> <small> <i> Fig.1 - graph depicting <font color="blue">direct</font"> and <font color="blue">indirect</font"> effects with unmeasured variables U,W </i> </small> </figcaption>
+</figure>
 Mediation analysis seeks to understand the underlying relationship between an exposure and outcome
 through some intermediate variable. That is, beyond evaluating the total effect of the exposure on outcome,
 one aims to evaluate the indirect effect of the exposure on outcome through a given mediator and the
