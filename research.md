@@ -1,36 +1,35 @@
 ---
 layout: page
 title: Research
-subtitle: [under construction]
+subtitle: 
 ---
 
-## Dissertation work  
-<strong style="font-size: 120%;"> Causal inference methods development </strong>  
-Harvard University (Cambridge, MA)  
-_Supervised by: Dr. Eric Tchetgen Tchetgen_  
-
-I am interested in developing statistical techniques that will enable scientists to infer causation about an intervention of interest in settings where the standard randomized experiment may be impractical, unethical, or insufficient such that observational studies or more complex experimental designs must be used. The current causal inference literature provides a framework for handling such situations, but the standard methods often require stringent assumptions, such as (1) no unmeasured confounding of the relationship of interest or (2) no spillover effects of the intervention given to one person on another person's outcome. The goal of my work is to develop new methods when each of these conditions are relaxed.  
-
+## Mediation analysis 
+A large portion of my dissertation work focuses on mediation analysis in the presence of unmeasured confounding or measurement error in the mediator. 
 
 <strong style="font-size: 100%;"> (1) Estimation of indirect causal effects of a confounded treatment </strong>  
-The goal of this work is to develop methodology to identify and estimate the extent to which the exposure affects the outcome through an intermediate variable in a setting where the exposure-outcome relation may be subject to unmeasured confounding. This is known as the "population intervention indirect effect". Draft of <a href="https://arxiv.org/abs/1711.03611"> paper</a> is currently available. I have also developed a <a href="https://isabelfulcher.github.io/frontdoorpiie/"> R package</a> for application of the methods. 
++ Collaborators: <a href="LINK HERE/"> Ilya Shpitser </a> and Eric Tchetgen Tchetgen 
++ Overview: The goal of this work is to develop methodology to identify and estimate the extent to which the exposure affects the outcome through an intermediate variable in a setting where the exposure-outcome relation may be subject to unmeasured confounding. This is known as the "population intervention indirect effect". 
++ Paper: <a href="https://arxiv.org/abs/1711.03611">Robust inference on indirect causal effects</a> *(Under review)*
++ Software: <a href="https://isabelfulcher.github.io/frontdoorpiie/"> R package</a>
++ Conferences: [img/enar2018](ENAR 2018 presentation); [img/acic2018](ACIC 2018 poster)
 
-<strong style="font-size: 100%;"> (2) Estimation and inference of causal treatment effects on a network </strong>  
-The proposed method will allow one to estimate causal effects in vaccine trials for infectious diseases on a network of interconnected indiviudals, while acknowledging complex dependencies in the data. These methods can be applied in a variety of settings in the health and socials sciences where network data are available. Draft of related <a href="https://arxiv.org/abs/1709.01577"> paper</a> is currently available. R package coming soon.  
+<strong style="font-size: 100%;"> (2) Robust inference on natural indirect effects </strong>  
++ Collaborators: Xu Shi and Eric Tchetgen Tchetgen 
++ Overview: The goal of this paper is two-fold. First, we show that the natural indirect effect can in fact be identified in the presence of unmeasured exposure-outcome confounding provided there is no additive interaction between the mediator and unmeasured confounder(s). Second, we introduce a new estimator of the natural indirect effect that is robust to both classical measurement error of the mediator and unmeasured confounding of both exposure-outcome and mediator-outcome relations under certain no interaction assumptions.
++ Paper: <a href="https://arxiv.org/abs/1711.03611">Estimation of natural indirect effects robust to unmeasured confounding and mediator measurement error</a> *(Under review)*
 
+<strong style="font-size: 100%;"> (3) Mediation analysis with censored survival data </strong>  
++ Collaborators: Paige Williams and Eric Tchetgen Tchetgen 
++ Overview: Mediation analyses have been extended to survival data. In these settings, specifically under accelerated failure time models, it has been suggested that under standard assumptions, the "difference" and "product" methods produce equivalent estimates of the indirect effect of exposure on the survival outcome. We formally show that these two methods may produce substantially different estimates in the presence of censoring or truncation, due to a form of model misspecification.
++ Paper: <a href="http://journals.lww.com/epidem/Citation/2017/09000/Mediation_Analysis_for_Censored_Survival_Data.5.aspx">Mediation Analysis for Censored Survival Data Under an Accelerated Failure Time Model</a> *(Epidemiology)*
++ Conferences: [img/jsm2017](JSM 2017 presentation)
 
-Additionally, I have done <a href="http://journals.lww.com/epidem/Citation/2017/09000/Mediation_Analysis_for_Censored_Survival_Data.5.aspx"> work</a> on causal mediation analysis in a survival data setting.  
+## Interference / Network data
 
----
-
-## Consulting experience  
-
-<strong style="font-size: 120%;"> Safer Deliveries </strong>  
-D-tree International (Zanzibar, Tanzania)  
-
-<strong style="font-size: 120%;"> Mobilizing Maternal Health </strong>  
-D-tree International (Dar es Salaam, Tanzania)  
-
-<strong style="font-size: 120%;"> Planned Parenthood </strong>  
-(Boston, MA)  
-
+<strong style="font-size: 100%;"> Estimation and inference of causal treatment effects on a network </strong>  
++ Collaborators: Ilya Shpitser and Eric Tchetgen Tchetgen 
++ Overview: The proposed method will allow one to estimate causal effects in vaccine trials for infectious diseases on a network of interconnected indiviudals, while acknowledging complex dependencies in the data. These methods can be applied in a variety of settings in the health and social sciences where network data are available
++ Paper: <a href="https://arxiv.org/abs/1709.01577">
+Auto-G-Computation of Causal Effects on a Network</a> *(In revision)*
++ Software: R package coming soon!  
