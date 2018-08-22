@@ -12,7 +12,7 @@ subtitle:
 _Instructor, Summer 2018_  
 
 + **Description:** A prepatory course for the incoming biostatistics doctoral students that covers computing in R and basic statistical topics
-+ **Materials:** <a href="https://isabelfulcher.github.io/methodsprep/"> Slides, exercises, and solutions</a> 
++ **Materials:** <a href="https://isabelfulcher.github.io/methodsprep/"> Course webpage </a> (exercises, solutions, slides)
 
 <img src="https://isabelfulcher.github.io/img/training.png"
      style="float: right; margin-right: 10px;"
@@ -30,7 +30,7 @@ _Course developer and instructor, Summer 2017_
 **Harvard T.H. Chan School of Public Health (Boston, MA)**  
 _Instructor, Summer 2016, 2017, 2018_  
 + **Description:** An introduction to Stata course for incoming graduate students
-+ **Materials:** <a href="https://www.hsph.harvard.edu/orientation/stata-module/">Online Stata module</a> 
++ **Materials:** <a href="https://www.hsph.harvard.edu/orientation/stata-module/">Video modules</a> ; <a href="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/122/2012/09/IntroStata_2018.pdf">Handout</a>
 
 I have also served as a teaching assistant and research mentor for numerous other courses. Please see my <a href="https://isabelfulcher.github.io/img/ifulcher_cv.pdf">CV</a> for a full list. 
 
