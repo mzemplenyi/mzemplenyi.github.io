@@ -8,7 +8,7 @@ subtitle:
 
 <img src="https://isabelfulcher.github.io/img/mediation.png"
      style="float: left; margin-right: 10px;"
-     width="250" height="200" /> 
+     width="300" height="200" /> 
 Mediation analysis seeks to understand the underlying relationship between an exposure and outcome
 through some intermediate variable. That is, beyond evaluating the total effect of the exposure on outcome,
 one aims to evaluate the indirect effect of the exposure on outcome through a given mediator and the
@@ -34,7 +34,7 @@ direct effect of the exposure on the outcome, not through the mediator. Standard
 
 ## Interference / network data
 
-<img src="https://isabelfulcher.github.io/img/network.png" width = "220" height = "190"
+<img src="https://isabelfulcher.github.io/img/network.png" width = "240" height = "220"
  style="float: right; margin-left: 10px;">
 This work provides methodology to estimate network causal effects in the presence of arbitrary forms of interference, whereby the outcome of a unit may depend on interventions received by other units with whom a network path through connected units exists; and long range dependence, whereby outcomes for any two units likewise connected by a path may be dependent. These methods are widely applicable to social networks, vaccine studies, and infectious disease settings.
 
