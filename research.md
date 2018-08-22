@@ -33,10 +33,12 @@ direct effect of the exposure on the outcome, not through the mediator. Standard
 
 
 ## Interference / network data
-
+<figure>
 <img src="https://isabelfulcher.github.io/img/network.png"
      style="float: right; margin-right: 10px;"
-     width="220" height="200" /> 
+     width="220" height="190" /> 
+     <figcaption>Fig.2 - network with outcome shaded by color and treatment by shape</figcaption>
+</figure>
 This work provides methodology to estimate network causal effects in the presence of arbitrary forms of interference, whereby the outcome of a unit may depend on interventions received by other units with whom a network path through connected units exists; and long range dependence, whereby outcomes for any two units likewise connected by a path may be dependent. These methods are widely applicable to social networks, vaccine studies, and infectious disease settings.  
 
 **(1) Auto-G-Computation of Causal Effects on a Network**
