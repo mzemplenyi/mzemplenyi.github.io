@@ -5,12 +5,10 @@ subtitle:
 ---
 
 ## Causal mediation analysis 
-<figure>
+
 <img src="https://isabelfulcher.github.io/img/mediation.png"
      style="float: left; margin-right: 10px;"
      width="250" height="200" /> 
-<figcaption> <small> <i> Fig.1 - graph depicting <font color="blue">direct</font> and <font color="red">indirect</font> effects with unmeasured variables U,W </i> </small> </figcaption>
-</figure>
 Mediation analysis seeks to understand the underlying relationship between an exposure and outcome
 through some intermediate variable. That is, beyond evaluating the total effect of the exposure on outcome,
 one aims to evaluate the indirect effect of the exposure on outcome through a given mediator and the
@@ -36,12 +34,8 @@ direct effect of the exposure on the outcome, not through the mediator. Standard
 
 ## Interference / network data
 
-<figure>
 <img src="https://isabelfulcher.github.io/img/network.png" width = "220" height = "190"
  style="float: right; margin-left: 10px;">
-<figcaption> <small> <i> Fig.2 - network with outcome shaded by color 
-     and treatment by shape </i> </small> </figcaption>
-</figure>
 This work provides methodology to estimate network causal effects in the presence of arbitrary forms of interference, whereby the outcome of a unit may depend on interventions received by other units with whom a network path through connected units exists; and long range dependence, whereby outcomes for any two units likewise connected by a path may be dependent. These methods are widely applicable to social networks, vaccine studies, and infectious disease settings.
 
 
