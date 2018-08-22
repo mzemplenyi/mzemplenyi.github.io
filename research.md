@@ -8,8 +8,8 @@ subtitle:
 A large portion of my dissertation work focuses on mediation analysis in the presence of unmeasured confounding or measurement error in the mediator. 
 
 #### (1) Estimation of indirect causal effects of a confounded treatment  
+We develop a novel causal effect known as the "population intervention indirect effect" (PIIE) that is identified in the presence of exposure-outcome confounding. We also derive semiparametric estimators for the PIIE.
 + **Collaborators:** <a href="https://www.cs.jhu.edu/~ilyas/"> Ilya Shpitser </a> and Eric Tchetgen Tchetgen 
-+ **Overview:** We develop a novel causal effect known as the "population intervention indirect effect" (PIIE) that is identified in the presence of exposure-outcome confounding. We also derive semiparametric estimators for the PIIE.
 + **Paper:** <a href="https://arxiv.org/abs/1711.03611">Robust inference on indirect causal effects</a> *(Under review)*
 + **Software:** <a href="https://isabelfulcher.github.io/frontdoorpiie/"> R package</a>
 + **Conferences:** <a href="https://isabelfulcher.github.io/img/enar2018.pdf">ENAR 2018 presentation</a> ; <a href="https://isabelfulcher.github.io/img/acic2018.pdf">ACIC 2018 poster</a> 
@@ -23,9 +23,9 @@ A large portion of my dissertation work focuses on mediation analysis in the pre
 + **Collaborators:** Paige Williams and Eric Tchetgen Tchetgen 
 + **Overview:** The well-known "difference" and "product" methods for estimation of the natural indirect effect may produce substantially different estimates in the presence of censoring or truncation, due to a form of model misspecification.
 + **Paper:** <a href="http://journals.lww.com/epidem/Citation/2017/09000/Mediation_Analysis_for_Censored_Survival_Data.5.aspx">Mediation Analysis for Censored Survival Data Under an Accelerated Failure Time Model</a> *(Epidemiology)*
-+ **Conferences:** <a href="https://isabelfulcher.github.io/img/jsm2017.pdf">JSM 2017 presentationr</a>
++ **Conferences:** <a href="https://isabelfulcher.github.io/img/jsm2017.pdf">JSM 2017 presentation</a>
 
-## Interference / Network data
+## Interference / network data
 
 #### Estimation and inference of causal treatment effects on a network 
 + **Collaborators:** Ilya Shpitser and Eric Tchetgen Tchetgen 
