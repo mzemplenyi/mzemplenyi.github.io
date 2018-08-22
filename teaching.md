@@ -4,8 +4,6 @@ title: Teaching
 subtitle: 
 ---
 
-## Selected Experience
-
 <strong style="font-size: 125%;"> Methods and Computing in R </strong>  
 **Harvard T.H. Chan School of Public Health (Boston, MA)**  
 _Instructor, Summer 2018_  
@@ -25,9 +23,8 @@ _Instructor, Summer 2016, 2017, 2018_
 + **Materials:**<a href="https://www.hsph.harvard.edu/orientation/stata-module/"> Online Stata module</a> 
 
 
----
 
-
+<!---
 ## Additional Experience _(by location)_
 
 <strong style="font-size: 125%;"> University of Global Health Equity (Kigali, Rwanda) </strong>  
@@ -56,3 +53,4 @@ _Teaching Assistant, Spring 2012_
 
 **MATH 323: Probability**  
 _Teaching Assistant, Fall 2011_
+-->
