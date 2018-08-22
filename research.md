@@ -43,7 +43,7 @@ direct effect of the exposure on the outcome, not through the mediator. Standard
             <div class="col-md-6"> 
             	<br><br><br>
             	  <figure>
-                <img src="https://isabelfulcher.github.io/img/network.png" width = 220 height = 190 alt="IsabelFulcher">
+                <img src="https://isabelfulcher.github.io/img/network.png" width = "220" height = "190">
                 <figcaption> <small> <i> Fig.2 - network with outcome shaded by color 
      and treatment by shape </i> </small> </figcaption>
                 </figure>
