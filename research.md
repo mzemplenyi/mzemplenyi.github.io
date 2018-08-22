@@ -4,10 +4,10 @@ title: Research
 subtitle: 
 ---
 
-## Mediation analysis 
+## Causal mediation analysis 
 A large portion of my dissertation work focuses on mediation analysis in the presence of unmeasured confounding or measurement error in the mediator. 
 
-### (1) Estimation of indirect causal effects of a confounded treatment  
+##### (1) Estimation of indirect causal effects of a confounded treatment  
 + **Collaborators:** <a href="https://www.cs.jhu.edu/~ilyas/"> Ilya Shpitser </a> and Eric Tchetgen Tchetgen 
 + **Overview:** The goal of this work is to develop methodology to identify and estimate the extent to which the exposure affects the outcome through an intermediate variable in a setting where the exposure-outcome relation may be subject to unmeasured confounding. This is known as the "population intervention indirect effect". 
 + **Paper:** <a href="https://arxiv.org/abs/1711.03611">Robust inference on indirect causal effects</a> *(Under review)*
