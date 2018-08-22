@@ -33,8 +33,9 @@ direct effect of the exposure on the outcome, not through the mediator. Standard
 
 
 ## Interference / network data
+
 <figure>
-<img src="https://isabelfulcher.github.io/img/network.png"
+<p><img src="https://isabelfulcher.github.io/img/network.png"
      style="float: right; margin-right: 10px;"
      width="220" height="190" /> 
      <figcaption>Fig.2 - network with outcome shaded by color and treatment by shape</figcaption>
