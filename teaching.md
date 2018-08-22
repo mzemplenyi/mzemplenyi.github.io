@@ -5,7 +5,7 @@ subtitle:
 ---
 
 <img src="https://isabelfulcher.github.io/img/harvard.png"
-     style="float: left; margin-right: 10px;"
+     style="float: right; margin-right: 10px;"
      width="100" height="80" />
 <strong style="font-size: 125%;"> Methods and Computing in R </strong>  
 **Harvard T.H. Chan School of Public Health (Boston, MA)**  
@@ -15,7 +15,7 @@ _Instructor, Summer 2018_
 + **Materials:** <a href="https://isabelfulcher.github.io/methodsprep/"> Slides, exercises, and solutions</a> 
 
 <img src="https://isabelfulcher.github.io/img/training.png"
-     style="float: left; margin-right: 10px;"
+     style="float: right; margin-right: 10px;"
      width="150" height="120" />
 <strong style="font-size: 125%;"> Data Analysis and Stata Software Training Course </strong>  
 **D-tree International (Zanzibar, Tanzania)**  
@@ -24,8 +24,8 @@ _Course developer and instructor, Summer 2017_
 + **Materials:** Contact for more information
 
 <img src="https://isabelfulcher.github.io/img/hsph.png"
-     style="float: left; margin-right: 10px;"
-     width="80" height="60" />
+     style="float: right; margin-right: 10px;"
+     width="80" height="100" />
 <strong style="font-size: 125%;"> Stata Orientation for Incoming Graduate Students </strong>  
 **Harvard T.H. Chan School of Public Health (Boston, MA)**  
 _Instructor, Summer 2016, 2017, 2018_  
