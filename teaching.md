@@ -4,12 +4,12 @@ title: Teaching
 subtitle: 
 ---
 
+**Harvard T.H. Chan School of Public Health (Boston, MA)**  
+_Instructor, Summer 2018_  
 <img src="https://isabelfulcher.github.io/img/harvard.png"
      style="float: left; margin-right: 10px;"
      width="200" height="170" />
 <strong style="font-size: 125%;"> Methods and Computing in R </strong>  
-**Harvard T.H. Chan School of Public Health (Boston, MA)**  
-_Instructor, Summer 2018_  
 + **Description:** A prepatory course for the incoming biostatistics doctoral students that covers computing in R and basic statistical topics
 + **Materials:** <a href="https://isabelfulcher.github.io/methodsprep/"> Slides, exercises, and solutions</a> 
 
