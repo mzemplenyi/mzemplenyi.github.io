@@ -4,6 +4,7 @@ title: Teaching
 subtitle: 
 ---
 
+<strong style="font-size: 125%;"> Methods and Computing in R </strong>  
 **Harvard T.H. Chan School of Public Health (Boston, MA)**  
 _Instructor, Summer 2018_  
 
@@ -13,7 +14,7 @@ _Instructor, Summer 2018_
 <img src="https://isabelfulcher.github.io/img/training.png"
      style="float: right; margin-right: 10px;"
      width="150" height="110" />
-<strong style="font-size: 125%;"> Data Analysis and Stata Software Training Course </strong>  
+<strong style="font-size: 125%;"> Data Analysis and Stata Software Training </strong>  
 **D-tree International (Zanzibar, Tanzania)**  
 _Course developer and instructor, Summer 2017_  
 + **Description:** An 8-week long statistical training course for D-tree International employees and their key partners at the Ministry of Health. The goal of the course was to equip trainees with tools to identify and answer pressing research questions that arose from the maternal and child health program in which they were all involved. 
