@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.30)  17 JUL 2018 17:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.30)  18 OCT 2018 15:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -366,21 +366,21 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 (./ifulcher_cv.aux)
 \openout1 = `ifulcher_cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 54.
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -400,7 +400,7 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 \everyMPtoPDFconversion=\toks27
 )
 \AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring ON on input line 53.
+Package hyperref Info: Link coloring ON on input line 54.
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -410,9 +410,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count122
 )
-LaTeX Info: Redefining \ref on input line 53.
-LaTeX Info: Redefining \pageref on input line 53.
-LaTeX Info: Redefining \nameref on input line 53.
+LaTeX Info: Redefining \ref on input line 54.
+LaTeX Info: Redefining \pageref on input line 54.
+LaTeX Info: Redefining \nameref on input line 54.
  (./ifulcher_cv.out) (./ifulcher_cv.out)
 \@outlinefile=\write4
 \openout4 = `ifulcher_cv.out'.
@@ -453,34 +453,27 @@ LaTeX Info: Redefining \nameref on input line 53.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 58.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 60.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 58.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 60.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 58.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 70.
-LaTeX Font Info:    Try loading font information for U+fontawesomeone on input 
-line 70.
-
-(/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontawesome/ufontawesomeone.
-fd
-File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
-)
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 60.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 72.
 LaTeX Font Info:    Try loading font information for U+fontawesometwo on input 
-line 70.
+line 72.
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontawesome/ufontawesometwo.
 fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    Try loading font information for U+fontawesomethree on inpu
-t line 70.
+t line 72.
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontawesome/ufontawesomethre
 e.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
-Overfull \hbox (2.28001pt too wide) in paragraph at lines 60--74
+Overfull \hbox (2.28001pt too wide) in paragraph at lines 62--76
 [] [] 
  []
 
@@ -504,91 +497,117 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--120
 [1
 
 {/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 136--143
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--147
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--150
+Underfull \hbox (badness 10000) in paragraph at lines 144--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 195--196
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--198
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Overfull \hbox (4.13881pt too wide) in paragraph at lines 185--186
+\T1/ptm/m/n/12 sured con-found-ing and me-di-a-tor mea-sure-ment er-ror. Epi-de
+mi-ol-ogy (\T1/ptm/m/it/12 In re-vi-sion\T1/ptm/m/n/12 ). arXiv preprint arXiv:
+1808.03692. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--209
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 229.
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 229.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
  (./ifulcher_cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 229.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 229.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
 Package rerunfilecheck Info: File `ifulcher_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 229.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
  ) 
 Here is how much of TeX's memory you used:
- 9705 strings out of 494437
- 142566 string characters out of 6166644
+ 9695 strings out of 494437
+ 142196 string characters out of 6166644
  256445 words of memory out of 5000000
- 12945 multiletter control sequences out of 15000+600000
- 26660 words of font info for 34 fonts, out of 8000000 for 9000
+ 12938 multiletter control sequences out of 15000+600000
+ 29066 words of font info for 35 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 35i,5n,39p,450b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,5n,39p,410b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/lo
 cal/texlive/2017basic/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.e
 nc}{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/fontawesome/fontawe
-sometwo.enc}{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/fontawesom
-e/fontawesomeone.enc}</usr/local/texlive/2017basic/texmf-dist/fonts/type1/publi
-c/fontawesome/FontAwesome.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/ty
-pe1/urw/times/utmb8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/u
-rw/times/utmr8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/urw/ti
-mes/utmri8a.pfb>
-Output written on ifulcher_cv.pdf (3 pages, 69929 bytes).
+sometwo.enc}</usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/fontawe
+some/FontAwesome.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/urw/t
+imes/utmb8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/urw/times/
+utmr8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/urw/times/utmri
+8a.pfb>
+Output written on ifulcher_cv.pdf (3 pages, 64849 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
