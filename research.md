@@ -31,8 +31,8 @@ This work provides methodology to estimate network causal effects in the presenc
 + Tchetgen Tchetgen, E. J., Fulcher, I. R., and Shpitser, I. (2018). Auto-g-computation of causal effects on a
 network. In revision at Journal of American Statistical Association. <a href="https://arxiv.org/abs/1709.01577">arXiv preprint arXiv:1709.01577</a>. <br /> <br />
 
-<center> <strong style="font-size: 125%;"> Sexual and reproductive health </strong> </center> </br> </br>
-My recent work in this area was to analyze the effect of judicial bypass law on delay in time to abortion among minors living in Massachusetts. For an overview of the ROE Act, visit <a href="https://www.plannedparenthoodaction.org/planned-parenthood-advocacy-fund-massachusetts-inc/issues/roe-act">Planned Parenthood League of Massachusetts</a> page or view a quick summary of this research in this awesome <a href="https://www.plannedparenthoodaction.org/uploads/filer_public/80/d6/80d62544-5038-4e81-a6de-de013f3abb78/minors_infographic_v9.pdf">infographic</a>! 
+<center> <strong style="font-size: 125%;"> Sexual and reproductive health </strong> </center> 
+My recent work in this area was to aid in the evaluation of the effect of the Massachusetts' judicial bypass law on delay in time to abortion. This study provides the first quantitaive assessment of this law and provides evidence that there is significant delay in time to procedure (see the <a href="https://www.plannedparenthoodaction.org/planned-parenthood-advocacy-fund-massachusetts-inc/issues/roe-act">ROE Act</a>). The main findings are summarized in this awesome <a href="https://www.plannedparenthoodaction.org/uploads/filer_public/80/d6/80d62544-5038-4e81-a6de-de013f3abb78/minors_infographic_v9.pdf">infographic</a> made by PPLM.
 
 + Janiak, E., Fulcher, I. R., ..., & Goldberg, A. (2019). Impact of Massachusetts’ parental involvement law
 on procedural timing among adolescents seeking abortion. <a href="https://journals.lww.com/greenjournal/Fulltext/2019/05000/Massachusetts__Parental_Consent_Law_and_Procedural.19.aspx">Obstetrics & Gynecology, 133(5), 978</a>.
