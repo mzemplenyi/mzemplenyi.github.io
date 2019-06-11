@@ -5,7 +5,7 @@ subtitle:
 ---
 
 
-<center> <strong style="font-size: 140%;"> Causal mediation analysis </strong> </center>
+<center> <strong style="font-size: 135%;"> Causal mediation analysis </strong> </center>
 Instead of focusing on the total effect of an exposure (e.g. HIV status) on outcome (e.g. age of sexual maturity), one may also be interested in understanding the effect through some intermediate variable (e.g. height). Causal questions of this type require stringent assumptions about the relationships between these variables that may not hold in the absence of a randomized trial (e.g. socioeconomic status may induce an association between HIV status and height). The methods developed here seek to clarify and relax the assumptions needed for identification of such causal queries.
 
 **Selected Publications**
@@ -25,13 +25,13 @@ In revision. <a href="https://arxiv.org/abs/1711.03611">arXiv preprint arXiv:171
 
 + Software: <a href="https://isabelfulcher.github.io/frontdoorpiie/">frontdoorpiie</a> R package  <br /> <br />
 
-<center> <strong style="font-size: 140%;"> Network causal effects </strong>  </center>
+<center> <strong style="font-size: 135%;"> Network causal effects </strong>  </center>
 This work provides methodology to estimate network causal effects in the presence of arbitrary forms of interference, whereby the outcome of one individual may depend on interventions received by other individuals; and long range dependence, whereby outcomes for any two individuals in the network may be dependent. We apply our methods to a sexual and injection drug use network to evaluate the effect of incarceration on HIV and STI transmission.
 
 + Tchetgen Tchetgen, E. J., Fulcher, I. R., and Shpitser, I. (2018). Auto-g-computation of causal effects on a
 network. In revision. <a href="https://arxiv.org/abs/1709.01577">arXiv preprint arXiv:1709.01577</a>. <br /> <br />
 
-<center> <strong style="font-size: 140%;"> Sexual and reproductive health </strong> </center> 
+<center> <strong style="font-size: 135%;"> Sexual and reproductive health </strong> </center> 
 My recent work in this area was to aid in the evaluation of the effect of the Massachusetts' judicial bypass law on delay in time to abortion. The main findings are summarized in this awesome <a href="https://www.plannedparenthoodaction.org/uploads/filer_public/80/d6/80d62544-5038-4e81-a6de-de013f3abb78/minors_infographic_v9.pdf">infographic</a> made by PPLM.
 
 + Janiak, E., Fulcher, I. R., ..., & Goldberg, A. (2019). Impact of Massachusetts’ parental involvement law
