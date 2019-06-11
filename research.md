@@ -15,7 +15,7 @@ data under an accelerated failure time model. Epidemiology, 28(5), 660-666.
 Fulcher, I. R., Shi, X., & Tchetgen Tchetgen, E. J. (2019). Estimation of natural indirect effects robust
 to unmeasured confounding and mediator measurement error. Epidemiology (In press). 
 + <a href="https://arxiv.org/abs/1808.03692">**Paper**</a>
-+ **Additional materials:** <a href="https://isabelfulcher.github.io/img/enar2019.pdf">ENAR 2019</a>
++ **Additional materials:** <a href="https://isabelfulcher.github.io/img/enar2019.pdf">ENAR 2019 presentation</a>
 
 Fulcher, I. R., Shpitser, I., & Tchetgen Tchetgen, E. J. (2018). Robust inference on indirect causal effects.
 In revision. arXiv preprint arXiv:1711.03611. 
