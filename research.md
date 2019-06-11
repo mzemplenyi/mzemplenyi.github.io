@@ -29,10 +29,10 @@ In revision. <a href="https://arxiv.org/abs/1711.03611">arXiv preprint arXiv:171
 This work provides methodology to estimate network causal effects in the presence of arbitrary forms of interference, whereby the outcome of one individual may depend on interventions received by other individuals; and long range dependence, whereby outcomes for any two individuals in the network may be dependent. We apply our methods to a sexual and injection drug use network to evaluate the effect of incarceration on HIV and STI transmission.
 
 + Tchetgen Tchetgen, E. J., Fulcher, I. R., and Shpitser, I. (2018). Auto-g-computation of causal effects on a
-network. In revision at Journal of American Statistical Association. <a href="https://arxiv.org/abs/1709.01577">arXiv preprint arXiv:1709.01577</a>. <br /> <br />
+network. In revision. <a href="https://arxiv.org/abs/1709.01577">arXiv preprint arXiv:1709.01577</a>. <br /> <br />
 
 <center> <strong style="font-size: 125%;"> Sexual and reproductive health </strong> </center> 
-My recent work in this area was to aid in the evaluation of the effect of the Massachusetts' judicial bypass law on delay in time to abortion. This study provides the first quantitaive assessment of this law and provides evidence that there is significant delay in time to procedure (see the <a href="https://www.plannedparenthoodaction.org/planned-parenthood-advocacy-fund-massachusetts-inc/issues/roe-act">ROE Act</a>). The main findings are summarized in this awesome <a href="https://www.plannedparenthoodaction.org/uploads/filer_public/80/d6/80d62544-5038-4e81-a6de-de013f3abb78/minors_infographic_v9.pdf">infographic</a> made by PPLM.
+My recent work in this area was to aid in the evaluation of the effect of the Massachusetts' judicial bypass law on delay in time to abortion. The main findings are summarized in this awesome <a href="https://www.plannedparenthoodaction.org/uploads/filer_public/80/d6/80d62544-5038-4e81-a6de-de013f3abb78/minors_infographic_v9.pdf">infographic</a> made by PPLM.
 
 + Janiak, E., Fulcher, I. R., ..., & Goldberg, A. (2019). Impact of Massachusetts’ parental involvement law
 on procedural timing among adolescents seeking abortion. <a href="https://journals.lww.com/greenjournal/Fulltext/2019/05000/Massachusetts__Parental_Consent_Law_and_Procedural.19.aspx">Obstetrics & Gynecology, 133(5), 978</a>.
