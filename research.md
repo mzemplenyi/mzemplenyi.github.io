@@ -4,9 +4,10 @@ title: Research
 subtitle: 
 ---
 
+A full list of publications is available <a href="https://scholar.google.com/citations?user=0-9RLbQAAAAJ&hl=en">here</a>.
 
 <center> <strong style="font-size: 135%;"> Causal mediation analysis </strong> </center>
-Instead of focusing on the total effect of an exposure (e.g. HIV status) on outcome (e.g. age of sexual maturity), one may also be interested in understanding the effect through some intermediate variable (e.g. height). Causal questions of this type require stringent assumptions about the relationships between these variables that may not hold in the absence of a randomized trial (e.g. socioeconomic status may induce an association between HIV status and height). The methods developed here seek to clarify and relax the assumptions needed for identification of such causal queries.
+Instead of focusing on the total effect of an exposure (e.g. HIV status) on outcome (e.g. age of sexual maturity), one may also be interested in understanding the effect through some intermediate variable (e.g. height). Causal queries of this type require stringent assumptions about the relationships between these variables that may not hold in the absence of a randomized trial (e.g. socioeconomic status may induce an association between HIV status and height). The methods developed here seek to clarify and relax the assumptions needed for identification of causal effects.
 
 <strong style="font-size: 110%;"> Selected Publications </strong> 
 
@@ -21,7 +22,7 @@ In revision. <a href="https://arxiv.org/abs/1711.03611">arXiv preprint arXiv:171
 
 <strong style="font-size: 110%;"> Additional materials </strong> 
 
-+ **Conference presentations:** <a href="https://isabelfulcher.github.io/img/jsm2017.pdf">JSM 2017 presentation</a>; <a href="https://isabelfulcher.github.io/img/enar2018.pdf">ENAR 2018 presentation</a> ; <a href="https://isabelfulcher.github.io/img/acic2018.pdf">ACIC 2018 poster</a>; <a href="https://isabelfulcher.github.io/img/enar2019.pdf">ENAR 2019 presentation</a>
++ **Conference presentations:** <a href="https://isabelfulcher.github.io/img/jsm2017.pdf">JSM 2017 presentation</a>; <a href="https://isabelfulcher.github.io/img/enar2018.pdf">ENAR 2018 presentation</a>; <a href="https://isabelfulcher.github.io/img/acic2018.pdf">ACIC 2018 poster</a>; <a href="https://isabelfulcher.github.io/img/enar2019.pdf">ENAR 2019 presentation</a>
 
 + **Software:** <a href="https://isabelfulcher.github.io/frontdoorpiie/">frontdoorpiie</a> R package  <br /> <br />
 
@@ -32,7 +33,7 @@ This work provides methodology to estimate network causal effects in the presenc
 network. In revision. <a href="https://arxiv.org/abs/1709.01577">arXiv preprint arXiv:1709.01577</a>. <br /> <br />
 
 <center> <strong style="font-size: 135%;"> Sexual and reproductive health </strong> </center> 
-My recent work in this area was to aid in the evaluation of the effect of the Massachusetts' judicial bypass law on delay in time to abortion. The main findings are summarized in this awesome <a href="https://www.plannedparenthoodaction.org/uploads/filer_public/80/d6/80d62544-5038-4e81-a6de-de013f3abb78/minors_infographic_v9.pdf">infographic</a> made by PPLM.
+My recent work evaluated the effect of the judicial bypass law on delay in time to abortion among minors living in Massachusetts. The main findings are summarized in this awesome <a href="https://www.plannedparenthoodaction.org/uploads/filer_public/80/d6/80d62544-5038-4e81-a6de-de013f3abb78/minors_infographic_v9.pdf">infographic</a> made by Planned Parenthood Leauge of Massachusetts.
 
 + Janiak, E., Fulcher, I. R., ..., & Goldberg, A. (2019). Impact of Massachusetts’ parental involvement law
 on procedural timing among adolescents seeking abortion. <a href="https://journals.lww.com/greenjournal/Fulltext/2019/05000/Massachusetts__Parental_Consent_Law_and_Procedural.19.aspx">Obstetrics & Gynecology, 133(5), 978</a>.
