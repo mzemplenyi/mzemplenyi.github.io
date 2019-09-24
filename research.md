@@ -17,8 +17,7 @@ data under an accelerated failure time model. <a href="http://journals.lww.com/e
 + <u>Fulcher, I. R.</u>, Shi, X., & Tchetgen Tchetgen, E. J. (2019). Estimation of natural indirect effects robust
 to unmeasured confounding and mediator measurement error. <a href="https://arxiv.org/abs/1808.03692">Epidemiology (In press)</a>.
 
-+ <u>Fulcher, I. R.</u>, Shpitser, I., & Tchetgen Tchetgen, E. J. (2018). Robust inference on indirect causal effects.
-In revision. <a href="https://arxiv.org/abs/1711.03611">arXiv preprint arXiv:1711.03611</a>.
++ <u>Fulcher, I. R.</u>, Shpitser, I., & Tchetgen Tchetgen, E. J. (2019). Robust inference on population indirect causal effects: the generalized front-door criterion. <a href="https://arxiv.org/abs/1711.03611">Journal of Royal Statistics Society Series B (In press)</a>.
 
 <strong style="font-size: 110%;"> Additional materials </strong> 
 
