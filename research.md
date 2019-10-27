@@ -4,7 +4,7 @@ title: Research
 subtitle: 
 ---
 
-<i> Selected publications by topic listed below. A full list of publications is available <a href="https://scholar.google.com/citations?user=0-9RLbQAAAAJ&hl=en">here</a>.</i>
+<i> Selected publications by topic listed below. A full list of publications is available <a href="https://scholar.google.com/citations?user=Pb7FyDkAAAAJ&hl=en">here</a>.</i>
 
 <center> <strong style="font-size: 135%;"> Causal mediation analysis </strong> </center>
 Instead of focusing on the total effect of an exposure (e.g. HIV status) on outcome (e.g. age of sexual maturity), one may also be interested in understanding the effect through some intermediate variable (e.g. height). Causal queries of this type require stringent assumptions about the relationships between these variables that may not hold in the absence of a randomized trial (e.g. socioeconomic status may induce an association between HIV status and height). The methods developed here seek to clarify and relax the assumptions needed for identification of causal effects.
