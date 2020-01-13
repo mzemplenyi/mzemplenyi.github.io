@@ -32,8 +32,10 @@ This work provides methodology to estimate network causal effects in the presenc
 network. In revision. <a href="https://arxiv.org/abs/1709.01577">arXiv preprint arXiv:1709.01577</a>. <br /> <br />
 
 <center> <strong style="font-size: 135%;"> Sexual and reproductive health </strong> </center> 
-My recent work evaluated the effect of the judicial bypass law on delay in time to abortion among minors living in Massachusetts. The main findings are summarized in this awesome <a href="https://www.plannedparenthoodaction.org/uploads/filer_public/80/d6/80d62544-5038-4e81-a6de-de013f3abb78/minors_infographic_v9.pdf">infographic</a> made by Planned Parenthood Leauge of Massachusetts.
+I work with several national and global organizations that aim to improve the delivery of sexual and reproductive health to vulnerable populations. The goal of my work is to support and grow  research efforts through the use of causal inference and data science. 
 
 + Janiak, E., <u>Fulcher, I. R.</u>, ..., & Goldberg, A. (2019). Impact of Massachusetts’ parental involvement law
-on procedural timing among adolescents seeking abortion. <a href="https://journals.lww.com/greenjournal/Fulltext/2019/05000/Massachusetts__Parental_Consent_Law_and_Procedural.19.aspx">Obstetrics & Gynecology, 133(5), 978</a>.
+on procedural timing among adolescents seeking abortion. <a href="https://journals.lww.com/greenjournal/Fulltext/2019/05000/Massachusetts__Parental_Consent_Law_and_Procedural.19.aspx">Obstetrics & Gynecology, 133(5), 978</a>. <i> See awesome <a href="https://www.plannedparenthoodaction.org/uploads/filer_public/80/d6/80d62544-5038-4e81-a6de-de013f3abb78/minors_infographic_v9.pdf">infographic</a> for summary of results. </i>
+
++ <u>Fulcher, I. R.</u>, Hedt, K., Marealle, S., Abdalla O., Tibaijuka, J., Hoffman, R., Layer, E., Mitchell, M., and Hedt-Gauthier, B. (2020). Errors in estimated gestational ages reduce the likelihood of health facility deliveries: results from an observational cohort study in Zanzibar. In Press at BMC Health Services Research.
 
