@@ -4,6 +4,15 @@ title: Teaching
 subtitle: 
 ---
 
+
+<img src="https://isabelfulcher.github.io/img/ginger.png"
+     style="float: right; margin-right: 10px;"
+     width="150" height="110" />
+<strong style="font-size: 125%;"> R and Biostatistics Workshop </strong>  
+**Global Initiative for Neuropsychiatric Genetics Education in Research (Addis Ababa, Ethiopia)**  
+_Teaching fellow, November 2019_  
++ **Description:** Biostatistical training course run in collaboration with Addis Ababa University. The goal of this course was to introduce fundamental research skills in potential researchers’ academic careers to support fundamental research curriculum development at the partner institution.
+
 <strong style="font-size: 125%;"> Methods and Computing in R </strong>  
 **Harvard T.H. Chan School of Public Health (Boston, MA)**  
 _Instructor, Summer 2018_  
