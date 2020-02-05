@@ -15,9 +15,9 @@ Instead of focusing on the total effect of an exposure (e.g. HIV status) on outc
 data under an accelerated failure time model. <a href="http://journals.lww.com/epidem/Citation/2017/09000/Mediation_Analysis_for_Censored_Survival_Data.5.aspx">Epidemiology, 28(5), 660-666</a>. 
 
 + <u>Fulcher, I. R.</u>, Shi, X., & Tchetgen Tchetgen, E. J. (2019). Estimation of natural indirect effects robust
-to unmeasured confounding and mediator measurement error. <a href="https://arxiv.org/abs/1808.03692">Epidemiology (In press)</a>.
+to unmeasured confounding and mediator measurement error. <a href="https://journals.lww.com/epidem/Abstract/2019/11000/Estimation_of_Natural_Indirect_Effects_Robust_to.8.aspx">Epidemiology, 30(6), 825-834</a>.
 
-+ <u>Fulcher, I. R.</u>, Shpitser, I., & Tchetgen Tchetgen, E. J. (2019). Robust inference on population indirect causal effects: the generalized front-door criterion. <a href="https://arxiv.org/abs/1711.03611">Journal of Royal Statistics Society Series B (In press)</a>.
++ <u>Fulcher, I. R.</u>, Shpitser, I., & Tchetgen Tchetgen, E. J. (2019). Robust inference on population indirect causal effects: the generalized front-door criterion. <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12345"> Journal of Royal Statistics Society Series B, 82(1), 199-214</a>.
 
 <strong style="font-size: 110%;"> Additional materials </strong> 
 
