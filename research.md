@@ -37,5 +37,5 @@ I work with several national and global organizations that aim to improve the de
 + Janiak, E., <u>Fulcher, I. R.</u>, ..., & Goldberg, A. (2019). Impact of Massachusetts’ parental involvement law
 on procedural timing among adolescents seeking abortion. <a href="https://journals.lww.com/greenjournal/Fulltext/2019/05000/Massachusetts__Parental_Consent_Law_and_Procedural.19.aspx">Obstetrics & Gynecology, 133(5), 978</a>. <i> See awesome <a href="https://www.plannedparenthoodaction.org/uploads/filer_public/80/d6/80d62544-5038-4e81-a6de-de013f3abb78/minors_infographic_v9.pdf">infographic</a> for summary of results. </i>
 
-+ <u>Fulcher, I. R.</u>, Hedt, K., Marealle, S., Abdalla O., Tibaijuka, J., Hoffman, R., Layer, E., Mitchell, M., and Hedt-Gauthier, B. (2020). Errors in estimated gestational ages reduce the likelihood of health facility deliveries: results from an observational cohort study in Zanzibar. In Press at BMC Health Services Research.
++ <u>Fulcher, I. R.</u>, Hedt, K., Marealle, S., Abdalla O., Tibaijuka, J., Hoffman, R., Layer, E., Mitchell, M., and Hedt-Gauthier, B. (2020). Errors in estimated gestational ages reduce the likelihood of health facility deliveries: results from an observational cohort study in Zanzibar. <a href="https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-020-4904-5">BMC Health Services Research</a>.
 
