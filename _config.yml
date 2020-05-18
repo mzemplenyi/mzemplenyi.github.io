@@ -43,7 +43,7 @@ navbar-links:
 # for the navigation bar, the main page, and the footer.
 # navbar-col: "orange"
 # navbar-img: "/img/bgimage.png"
-  footer-col: "#800000"
+footer-col: "#800000"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
 # page-img: "/img/bgimage.png"
