@@ -30,8 +30,7 @@ _Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_
             </div>
             <div class="col-md-6"> 
             	<figure>
-            	<img src="img/mz_headshot_square.jpg" width = 325 height = 325 alt="Michele Zemplenyi">
-                <!-- <img src="img/drawdownreview.jpg" alt="Drawdown Review 2020"> -->
+            	<img src="https://mzemplenyi.github.io/img/drawdownreview.jpg" style="width:auto;height:200px;" alt="Drawdown Review 2020">
                 </figure>
 		    </div>
 	    </div><!-- row -->	
