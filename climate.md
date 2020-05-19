@@ -4,7 +4,7 @@ title: Climate
 subtitle: 
 ---
 
-<strong style="font-size: 125%;"> Workshops and Symposia Attended </strong> 
+<strong style="font-size: 125%;"> Workshops and symposia I've attended </strong> 
 
 + **Union of Concerned Scientists**  
 Summit on Energy and Clean Transportation in Massachusetts for Early Career Scientists 
@@ -38,9 +38,9 @@ _Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_
                 </figure>
 		    </div>
 		    <div class="col-md-4"> 
-            	<a href = "http://bakkeconsolidated.org/Welcome.html">Gretchen Bakke - _The Grid_</a>
+            	<a href = "http://bakkeconsolidated.org/Welcome.html">Gretchen Bakke - <i>The Grid</i></a>
             	<figure>
-            	<img src="https://mzemplenyi.github.io/img/thegrid.png" style="width:auto;height:200px;" alt="The Grid">
+            	<img src="https://mzemplenyi.github.io/img/thegrid.PNG" style="width:auto;height:200px;" alt="The Grid">
                 </figure>
 		    </div>
 	    </div><!-- row -->	
