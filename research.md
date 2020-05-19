@@ -7,10 +7,11 @@ subtitle:
 <i> Selected publications by topic listed below. A full list of publications is available <a href="https://scholar.google.com/citations?user=Pb7FyDkAAAAJ&hl=en">here</a>.</i>
 
 
-<img src="https://mzemplenyi.github.io/img/OED_cycle.png"
-     style="float: right; margin-right: 10px;"
-     width="312" height="146" />
 <center> <strong style="font-size: 135%;"> Optimal experimental design </strong> </center>
+<img src="https://mzemplenyi.github.io/img/OED_cycle.PNG"
+	 style="text-align: center;"
+     width="312" height="146" />
+
 
 + **Conference poster:** <a href="https://mzemplenyi.github.io/img/OED_poster.pdf">Joint Statistical Meetings 2019</a>
 
