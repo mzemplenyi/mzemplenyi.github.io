@@ -30,7 +30,7 @@ _Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_
             </div>
             <div class="col-md-6"> 
             	<figure>
-                <img src="img/drawdown-review.jpg" alt="Drawdown Review 2020">
+                <img src="img/drawdownreview.jpg" alt="Drawdown Review 2020">
                 </figure>
 		    </div>
 	    </div><!-- row -->	
