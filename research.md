@@ -6,6 +6,15 @@ subtitle:
 
 <i> Selected publications by topic listed below. A full list of publications is available <a href="https://scholar.google.com/citations?user=Pb7FyDkAAAAJ&hl=en">here</a>.</i>
 
+
+<img src="https://mzemplenyi.github.io/img/OED_cycle.png"
+     style="float: right; margin-right: 10px;"
+     width="312" height="146" />
+<center> <strong style="font-size: 135%;"> Optimal experimental design </strong> </center>
+
++ **Conference poster:** <a href="https://mzemplenyi.github.io/img/OED_poster.pdf">Joint Statistical Meetings 2019</a>
+
+
 <center> <strong style="font-size: 135%;"> Causal mediation analysis </strong> </center>
 Instead of focusing on the total effect of an exposure (e.g. HIV status) on outcome (e.g. age of sexual maturity), one may also be interested in understanding the effect through some intermediate variable (e.g. height). Causal queries of this type require stringent assumptions about the relationships between these variables that may not hold in the absence of a randomized trial (e.g. socioeconomic status may induce an association between HIV status and height). The methods developed here seek to clarify and relax the assumptions needed for identification of causal effects.
 
