@@ -4,7 +4,15 @@ title: Research
 subtitle: 
 ---
 
-<i> Selected publications by topic listed below. A full list of publications is available <a href="https://scholar.google.com/citations?user=Pb7FyDkAAAAJ&hl=en">here</a>.</i>
+<!-- <i> Selected publications by topic listed below. A full list of publications is available <a href="https://scholar.google.com/citations?user=Pb7FyDkAAAAJ&hl=en">here</a>.</i> -->
+
+
+<center> <strong style="font-size: 135%;"> Statistical Methods for Environmental Epidemiology Applications </strong> 
+<img src="https://mzemplenyi.github.io/img/environmental_epi.PNG"
+     style="height:auto;">
+</center>
+
++ **Conference poster:** <a href="https://mzemplenyi.github.io/img/JSM2018_FFR_poster.pdf">Joint Statistical Meetings 2019</a>
 
 
 <center> <strong style="font-size: 135%;"> Optimal experimental design </strong> 
