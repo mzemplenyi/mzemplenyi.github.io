@@ -7,7 +7,8 @@ subtitle:
 <!-- <i> Selected publications by topic listed below. A full list of publications is available <a href="https://scholar.google.com/citations?user=Pb7FyDkAAAAJ&hl=en">here</a>.</i> -->
 
 
-<center> <strong style="font-size: 135%;"> Statistical Methods for Environmental Epidemiology Applications </strong>  
+<center> <strong style="font-size: 135%;"> Statistical Methods for Environmental Epidemiology</strong>  
+  
   
 
 <img src="https://mzemplenyi.github.io/img/environmental_epi.PNG"
@@ -18,7 +19,11 @@ subtitle:
 
 <strong style="font-size: 110%;"> Publications </strong>   
 
-+ <u>Zemplenyi M</u>, Meyer MJ, Cardenas A, France-Hivert M, Rifas-Shiman SL, Gibson H, Kloog I, Schwartz J, Oken E, DeMeo DL, Gold DR, Coull BA. Function-on-Function Regression for the Identification of Epigenetic Regions Exhibiting Windows of Susceptibility to Environmental Exposures. [Under Review at <i>Annals of Applied Statistics<\i>; <a href="https://arxiv.org/abs/1912.07359">pre-print</a>].
++ <u>Zemplenyi M</u>, Meyer MJ, Cardenas A, France-Hivert M, Rifas-Shiman SL, Gibson H, Kloog I, Schwartz J, Oken E, DeMeo DL, Gold DR, Coull BA. Function-on-Function Regression for the Identification of Epigenetic Regions Exhibiting Windows of Susceptibility to Environmental Exposures. Under Review at <i>Annals of Applied Statistics</i>; <a href="https://arxiv.org/abs/1912.07359">pre-print</a>.
+
++ Zhong J, Karlsson O, Wang G, Li J, Guo Y, Lin X, <u>Zemplenyi M</u>, Sanchez-Guerra M, Trevisi L, Urch B, Speck M, Liang L, Coull BA, Koutrakis P, Silverman F, Gold DR, Wu T, Baccarelli AA. (2017). B vitamins attenuate the epigenetic effects of ambient fine particles in a pilot human intervention trial, <a href="https://www.pnas.org/content/114/13/3503">PNAS, 114(13), 3503-3508</a>. 
+
++ <u>Zemplenyi M</u>, Coull BA. Sparse canonical correlation analysis with applications in molecular environmental epidemiology. <i>In progress</i>.
 
 
 <center> <strong style="font-size: 135%;"> Optimal experimental design </strong>  
@@ -30,7 +35,14 @@ subtitle:
 
 + **Conference poster:** <a href="https://mzemplenyi.github.io/img/OED_poster.pdf">Joint Statistical Meetings 2019</a>
 
+<strong style="font-size: 110%;"> Publications </strong> 
 
++ <u>Zemplenyi M</u>, Miller JW. Bayesian optimal experimental design for inferring causal structure. <i>In progress</i>.
+
++ <u>Zemplenyi M</u>, Miller JW. Bayesian optimal experimental design for inferring causal structure. <i>In progress</i>.
+
+
+<!-- 
 <center> <strong style="font-size: 135%;"> Causal mediation analysis </strong> </center>
 Instead of focusing on the total effect of an exposure (e.g. HIV status) on outcome (e.g. age of sexual maturity), one may also be interested in understanding the effect through some intermediate variable (e.g. height). Causal queries of this type require stringent assumptions about the relationships between these variables that may not hold in the absence of a randomized trial (e.g. socioeconomic status may induce an association between HIV status and height). The methods developed here seek to clarify and relax the assumptions needed for identification of causal effects.
 
@@ -63,4 +75,4 @@ I work with several national and global organizations that aim to improve the de
 on procedural timing among adolescents seeking abortion. <a href="https://journals.lww.com/greenjournal/Fulltext/2019/05000/Massachusetts__Parental_Consent_Law_and_Procedural.19.aspx">Obstetrics & Gynecology, 133(5), 978</a>. <i> See awesome <a href="https://www.plannedparenthoodaction.org/uploads/filer_public/80/d6/80d62544-5038-4e81-a6de-de013f3abb78/minors_infographic_v9.pdf">infographic</a> for summary of results. </i>
 
 + <u>Fulcher, I. R.</u>, Hedt, K., Marealle, S., Abdalla O., Tibaijuka, J., Hoffman, R., Layer, E., Mitchell, M., and Hedt-Gauthier, B. (2020). Errors in estimated gestational ages reduce the likelihood of health facility deliveries: results from an observational cohort study in Zanzibar. <a href="https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-020-4904-5">BMC Health Services Research</a>.
-
+ -->
