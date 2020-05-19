@@ -29,10 +29,10 @@ _Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_
             	<a href = "https://drawdown.org/drawdown-framework/drawdown-review-2020">Drawdown Review</a>
             </div>
             <div class="col-md-6"> 
-            	  <figure>
-                <img src="img/drawdown-review.jpg" style="width:791px;height:1024px;" alt="Drawdown Review 2020">
+            	<figure>
+                <img src="img/drawdown-review.jpg" style="height: auto;" alt="Drawdown Review 2020"/>
                 </figure>
-		        </div>
+		    </div>
 	    </div><!-- row -->	
 </div> <!-- /container -->      
 
