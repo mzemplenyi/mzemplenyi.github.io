@@ -7,11 +7,17 @@ subtitle:
 <strong style="font-size: 125%;"> Workshops and Symposia Attended </strong> 
 
 + **Union of Concerned Scientists**  
-_Summit on Energy and Clean Transportation in Massachusetts for Early Career Scientists_  
+Summit on Energy and Clean Transportation in Massachusetts for Early Career Scientists 
+
++ **Harvard University**
+<a href = "https://www.youtube.com/channel/UCiXL3ZwiYv6xsj3c9UtTEWw?fbclid=IwAR3l1vS7-FU62Si3QILvUrZnLFW4XK52edlYg5x7DqfIcB1Im7rOIld-Xek">Student Climate Change Conference</a>
+
 
 + **The Aspen Institute**  
-_Earth Day 2020: The Way Forward on Climate & Health_ 
+<a href="https://www.youtube.com/watch?v=PVn2DW8L22I">Earth Day 2020: The Way Forward on Climate and Health</a>
+
 
 + **Harvard Kennedy School Institute of Politics**  
-_Nuclear Energy: Climate and the Bomb; Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_
+<a href = "https://iop.harvard.edu/forum/nuclear-energy-climate-and-bomb">Nuclear Energy: Climate and the Bomb</a>
+_Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_
 
