@@ -32,13 +32,13 @@ _Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_
                 </figure>
             </div>
             <div class="col-md-4"> 
-            	<a href = "https://energyfuturesinitiative.org/efi-reports">Energy Futures Initiative/a>
+            	<a href = "https://energyfuturesinitiative.org/efi-reports">Energy Futures Initiative</a>
             	<figure>
             	<img src="https://mzemplenyi.github.io/img/efi_clearingtheair.png" style="width:auto;height:200px;" alt="EFI Clearing The Air Report">
                 </figure>
 		    </div>
 		    <div class="col-md-4"> 
-            	<a href = "http://bakkeconsolidated.org/Welcome.html">Gretchen Bakke - _The Grid_/a>
+            	<a href = "http://bakkeconsolidated.org/Welcome.html">Gretchen Bakke - _The Grid_</a>
             	<figure>
             	<img src="https://mzemplenyi.github.io/img/thegrid.png" style="width:auto;height:200px;" alt="The Grid">
                 </figure>
