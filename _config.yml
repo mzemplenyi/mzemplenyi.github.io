@@ -25,6 +25,7 @@ description: Michele Zemplenyi's personal homepage
 navbar-links:
   About Me: "http://mzemplenyi.github.io"
   Research: "research"
+  Climate: "climate"
   Teaching: "teaching"
   CV: "img/ifulcher_cv.pdf"
 
