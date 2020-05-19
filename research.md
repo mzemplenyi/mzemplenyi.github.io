@@ -7,18 +7,26 @@ subtitle:
 <!-- <i> Selected publications by topic listed below. A full list of publications is available <a href="https://scholar.google.com/citations?user=Pb7FyDkAAAAJ&hl=en">here</a>.</i> -->
 
 
-<center> <strong style="font-size: 135%;"> Statistical Methods for Environmental Epidemiology Applications </strong> 
+<center> <strong style="font-size: 135%;"> Statistical Methods for Environmental Epidemiology Applications </strong>  
+  
+
 <img src="https://mzemplenyi.github.io/img/environmental_epi.PNG"
      style="height:auto;">
 </center>
 
-+ **Conference poster:** <a href="https://mzemplenyi.github.io/img/JSM2018_FFR_poster.pdf">Joint Statistical Meetings 2019</a>
+**Conference poster:** <a href="https://mzemplenyi.github.io/img/JSM2018_FFR_poster.pdf">Joint Statistical Meetings 2018</a>
+
+<strong style="font-size: 110%;"> Publications </strong>   
+
++ <u>Zemplenyi M</u>, Meyer MJ, Cardenas A, France-Hivert M, Rifas-Shiman SL, Gibson H, Kloog I, Schwartz J, Oken E, DeMeo DL, Gold DR, Coull BA. Function-on-Function Regression for the Identification of Epigenetic Regions Exhibiting Windows of Susceptibility to Environmental Exposures. [Under Review at <i>Annals of Applied Statistics<\i>; <a href="https://arxiv.org/abs/1912.07359">pre-print</a>].
 
 
-<center> <strong style="font-size: 135%;"> Optimal experimental design </strong> 
+<center> <strong style="font-size: 135%;"> Optimal experimental design </strong>  
+
 <img src="https://mzemplenyi.github.io/img/OED_cycle.PNG"
      width="624" height="292" />
 </center>
+
 
 + **Conference poster:** <a href="https://mzemplenyi.github.io/img/OED_poster.pdf">Joint Statistical Meetings 2019</a>
 
