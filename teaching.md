@@ -13,12 +13,12 @@ subtitle:
 + BST 254: Design and Monitoring of Adaptive Clinical Trials
 + BST 227: Statistical Genetics
 + BST 312: Statistical Consulting
-+ BST 214: Priniciples of Clinical Trials
++ BST 214: Principles of Clinical Trials
 + BST 222: Basics of Statistical Inference  
 _Recipient of 2020 Harvard Chan Teaching Assistant Award_
 
 <strong style="font-size: 125%;"> StatStart Summer Program </strong>  
-**Description:** StatStart is a one month intensive summer course in biostatistics & computing for high school students from underrepresented minority & low-income backgrounds in the greater Boston area. 
+**Description:** StatStart is a one month intensive summer course in biostatistics and computing for high school students from underrepresented minority and low-income backgrounds in the greater Boston area. 
 + For the 2018 and 2019 sessions, I helped organize the logistics of the program, developed the introduction to data analysis curriculum, and served as one of the teachers.  
 
 <strong style="font-size: 125%;"> Harvard College </strong>
