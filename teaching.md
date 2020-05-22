@@ -5,15 +5,27 @@ subtitle:
 ---
 
 
-<img src="https://isabelfulcher.github.io/img/ginger.png"
+<!-- <img src="https://isabelfulcher.github.io/img/ginger.png"
      style="float: right; margin-right: 10px;"
-     width="150" height="110" />
-<strong style="font-size: 125%;"> R and Biostatistics Workshop </strong>  
-**Global Initiative for Neuropsychiatric Genetics Education in Research (Addis Ababa, Ethiopia)**  
-_Teaching fellow, November 2019_  
-+ **Description:** Biostatistical training course run in collaboration with Addis Ababa University. The goal of this course was to introduce fundamental research skills in potential researchers’ academic careers to support fundamental research curriculum development at the partner institution.
+     width="150" height="110" /> -->
+<strong style="font-size: 125%;"> Harvard T. H. Chan School of Public Health </strong>  
++ **Description:** During my graduate studies, I was a teaching assistant for the following courses taken by masters and doctoral students at the School of Public Health:  
++ BST 254: Design and Monitoring of Adaptive Clinical Trials
++ BST 227: Statistical Genetics
++ BST 312: Statistical Consulting
++ BST 214: Priniciples of Clinical Trials
++ BST 222: Basics of Statistical Inference 
+_Recipient of 2020 Harvard Chan Teaching Assistant Award_
 
-<strong style="font-size: 125%;"> Methods and Computing in R </strong>  
+<strong style="font-size: 125%;"> StatStart Summer Program </strong>  
++ **Description:** StatStart is a one month intensive summer course in biostatistics & computing for high school students from underrepresented minority & low-income backgrounds in the greater Boston area. 
++ For the 2018 and 2019 sessions, I helped organize the logistics of the program, developed the introduction to data analysis curriculum, and served as one of the teachers.  
+
+<strong style="font-size: 125%;"> Harvard College </strong>
++ Teaching assistant for EM16: Real-Life Statistics, _awarded Certificate of Distinction in Teaching_
++ Course assistant for STAT 104: Introduction to Statistics
+
+<!-- <strong style="font-size: 125%;"> Methods and Computing in R </strong>  
 **Harvard T.H. Chan School of Public Health (Boston, MA)**  
 _Instructor, Summer 2018_  
 
@@ -37,7 +49,7 @@ _Instructor, Summer 2016, 2017, 2018_
 + **Materials:** <a href="https://www.hsph.harvard.edu/orientation/stata-module/">Video modules</a> ; <a href="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/122/2012/09/IntroStata_2018.pdf">Handout</a>
 
 I have also served as a teaching assistant and research mentor for numerous other courses. Please see my <a href="https://isabelfulcher.github.io/img/ifulcher_cv.pdf">CV</a> for a full list. 
-
+ -->
 <!---
 ## Additional Experience _(by location)_
 
