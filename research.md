@@ -26,7 +26,9 @@ subtitle:
 + <u>Zemplenyi M</u>, Coull BA. Sparse canonical correlation analysis with applications in molecular environmental epidemiology. <i>In progress</i>.
 
 
-<center> <strong style="font-size: 135%;"> Optimal experimental design </strong>  
+<center> <strong style="font-size: 135%;"> Experimental design </strong>  
+
+
 
 <img src="https://mzemplenyi.github.io/img/OED_cycle.PNG"
      width="624" height="292" />
@@ -39,7 +41,7 @@ subtitle:
 
 + <u>Zemplenyi M</u>, Miller JW. Bayesian optimal experimental design for inferring causal structure. <i>In progress</i>.
 
-+ <u>Zemplenyi M</u>, Miller JW. Bayesian optimal experimental design for inferring causal structure. <i>In progress</i>.
++ <u>Zemplenyi M</u>. (2013). Design and analysis of a fractional factorial screening experiment to identify small molecule inducers of pancreatic beta cells. Undergraduate thesis.
 
 
 <!-- 
