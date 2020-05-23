@@ -6,9 +6,11 @@ subtitle:
 
 <!-- <i> Selected publications by topic listed below. A full list of publications is available <a href="https://scholar.google.com/citations?user=Pb7FyDkAAAAJ&hl=en">here</a>.</i> -->
 
+My doctoral research focuses on two different topics: (1) statistical methods for environmental health and epidemiology, and (2) experimental design methods for inferring causal structure. I am also involved in collaborations with Dr. Theresa Chen's research group at Massachusetts Eye and Ear to investigate how three-dimensional imaging of the eye can be used to detect glaucoma progression.   
 
 <center> <strong style="font-size: 135%;"> Statistical Methods for Environmental Epidemiology</strong>  
-  
+ 
+It is becoming increasingly clear that environmental exposures early in life have the potential to set the health trajectory for the rest of your life. My research has focused on methods for identifying windows of susceptibility to environmental exposures -- that is, time periods when there is a significant association between an exposure and an adverse health outcome. In particular, I have focused on the effects of prenatal exposure to ambient air pollution released from coal combustion, cars, and fires. 
   
 
 <img src="https://mzemplenyi.github.io/img/environmental_epi.PNG"
@@ -24,6 +26,8 @@ subtitle:
 + Zhong J, Karlsson O, Wang G, Li J, Guo Y, Lin X, <u>Zemplenyi M</u>, Sanchez-Guerra M, Trevisi L, Urch B, Speck M, Liang L, Coull BA, Koutrakis P, Silverman F, Gold DR, Wu T, Baccarelli AA. (2017). B vitamins attenuate the epigenetic effects of ambient fine particles in a pilot human intervention trial, <a href="https://www.pnas.org/content/114/13/3503">PNAS, 114(13), 3503-3508</a>. 
 
 + <u>Zemplenyi M</u>, Coull BA. Sparse canonical correlation analysis with applications in molecular environmental epidemiology. <i>In progress</i>.
+
++ Oppenheimer A, Bellinger D, Coull BA, Weisskopf M, <u>Zemplenyi M</u>, Korrick SA. Prenatal exposure to chemical mixtures and inhibitory control among adolescents in the New Bedford Cohort. <i>In progress</i>.
 
 
 <center> <strong style="font-size: 135%;"> Experimental design </strong>  
