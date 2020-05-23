@@ -18,8 +18,9 @@ _Recipient of 2020 Harvard Chan Teaching Assistant Award_
 + BST 222: Basics of Statistical Inference  
 
 <strong style="font-size: 125%;"> StatStart Summer Program </strong>  
-**Description:** <a href="https://www.hsph.harvard.edu/biostatistics/statstart-a-program-for-high-school-students/StatStart">StatStart</a> is a one month intensive summer course in biostatistics and computing for high school students from underrepresented minority and low-income backgrounds in the greater Boston area. 
-+ For the 2018 and 2019 sessions, I helped organize the logistics of the program, developed the introduction to data analysis curriculum, and served as one of the teachers.  
+**Description:** <a href="https://www.hsph.harvard.edu/biostatistics/statstart-a-program-for-high-school-students/StatStart">StatStart</a> is a one month intensive summer course in biostatistics and computing for high school students from underrepresented minority and low-income backgrounds in the greater Boston area.  
+
+For the 2018 and 2019 sessions, I helped organize the logistics of the program, developed the introduction to data analysis curriculum, and served as one of the teachers.  
 
 <strong style="font-size: 125%;"> Harvard College </strong>  
 _Awarded Certificate of Distinction in Teaching_   
