@@ -4,6 +4,9 @@ title: Climate
 subtitle: 
 ---
 
+A large portion of my doctoral research focused on studying the _effects_ of air pollution on human health. Next, I want my work to _target the source_ of this air pollution, as well as so many of the other ailments afflicting our health and our planet's health: human activities that cause climate change. Air pollution is released from coal combustion and car exhaust, as well as forest fires worsened by extreme heat and drought like the ones that ravaged Australia earlier this year.  Whether its individual health issues like asthma, heat stroke, and novel infectious diseases or problems on a global scale like sea level rise, ocean acidification, and loss of biodiversity, climate change plays a role in them all.  
+
+
 <strong style="font-size: 125%;"> Workshops and symposia I've attended </strong> 
 
 + **Union of Concerned Scientists**  
