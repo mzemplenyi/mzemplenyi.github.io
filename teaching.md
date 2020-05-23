@@ -21,8 +21,8 @@ _Recipient of 2020 Harvard Chan Teaching Assistant Award_
 **Description:** <a href="https://www.hsph.harvard.edu/biostatistics/statstart-a-program-for-high-school-students/StatStart">StatStart</a> is a one month intensive summer course in biostatistics and computing for high school students from underrepresented minority and low-income backgrounds in the greater Boston area. 
 + For the 2018 and 2019 sessions, I helped organize the logistics of the program, developed the introduction to data analysis curriculum, and served as one of the teachers.  
 
-<strong style="font-size: 125%;"> Harvard College </strong>
- _Awarded Certificate of Distinction in Teaching_   
+<strong style="font-size: 125%;"> Harvard College </strong>  
+_Awarded Certificate of Distinction in Teaching_   
 + Teaching assistant for EM16: Real-Life Statistics
 + Course assistant for STAT 104: Introduction to Statistics
 

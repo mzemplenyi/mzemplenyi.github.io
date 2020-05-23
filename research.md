@@ -9,7 +9,7 @@ subtitle:
 My doctoral research focuses on two different topics: (1) statistical methods for environmental health and epidemiology, and (2) experimental design methods for inferring causal structure. I am also involved in collaborations with Dr. Theresa Chen's research group at Massachusetts Eye and Ear to investigate how three-dimensional imaging of the eye can be used to detect glaucoma progression.   
 
 <center> <strong style="font-size: 135%;"> Statistical Methods for Environmental Epidemiology</strong>  
- 
+<br></br>
 It is becoming increasingly clear that environmental exposures early in life have the potential to set the health trajectory for the rest of your life. My research has focused on methods for identifying windows of susceptibility to environmental exposures -- that is, time periods when there is a significant association between an exposure and an adverse health outcome. In particular, I have focused on the effects of prenatal exposure to ambient air pollution released from coal combustion, cars, and fires. 
   
 
