@@ -19,7 +19,7 @@ My doctoral research focuses on two different topics: (1) statistical methods fo
 It is becoming increasingly clear that environmental exposures early in life have the potential to set the health trajectory for the rest of your life. My research has focused on statistical methods for identifying windows of susceptibility to environmental exposures -- that is, time periods when there is a significant association between an exposure and an adverse health outcome.  
   
   
-In particular, I have focused on the effects of prenatal exposure to air pollution released from coal combustion, cars, and fires on human health. Inhaling these particles can cause downstream changes in the epigenome, the chemical signals that regulate how genes are expressed. Depending on the timing of these shocks, epigenetic modifications could lead to abnormal organ development and potentially cardiovascular and respiratory problems. These detrimental effects are not limited to the person who directly inhales the air pollution; a developing fetus can be exposed prenatally when the air pollution a pregnant mother inhales triggers a cascade of inflammatory chemical signals that are passed to the fetus via the placenta.  My work on function-on-function regression and sparse canonical correlation analysis aims to identify the regions in the epigenome and time periods during pregnancy when these potentially harmful developmental changes occur. 
+In particular, I have focused on the effects of prenatal exposure to air pollution on human health. Inhaling these particles can cause downstream changes in the epigenome, the chemical signals that regulate how genes are expressed. Depending on the timing of these shocks, epigenetic modifications could lead to abnormal organ development and potentially cardiovascular and respiratory problems. These detrimental effects are not limited to the person who directly inhales the air pollution; a developing fetus can be exposed prenatally when the air pollution a pregnant mother inhales triggers a cascade of inflammatory chemical signals that are passed to the fetus via the placenta.  My work on function-on-function regression and sparse canonical correlation analysis aims to identify the regions in the epigenome and time periods during pregnancy when these potentially harmful developmental changes occur. 
   
 
 
@@ -38,12 +38,11 @@ In particular, I have focused on the effects of prenatal exposure to air polluti
 
 <center> <strong style="font-size: 135%;"> Experimental design </strong>  
 
-
-
-
 <img src="https://mzemplenyi.github.io/img/OED_cycle.PNG"
      width="624" height="292" />
-</center>
+</center>  
+  
+The goal of this work is to help researchers save time and resources by optimizing the experimental process. This is especially useful for biological applications in which a scientist wants to use gene-knockout experiments to learn about the regulatory relationships operating within a gene network. Different experiments yield different amounts of information about the system being studied; the Bayesian optimal experimental design approach that my advisor, Jeff Miller, and I developed identifies the next best experiment to run given any prior results and knowledge about the system. By iterating between experimentation and analysis, and updating knowledge along the way, this cyclical approach maximizes learning and discovery.   
 
 
 + **Conference poster:** <a href="https://mzemplenyi.github.io/img/OED_poster.pdf">Joint Statistical Meetings 2019</a>
