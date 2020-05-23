@@ -10,7 +10,7 @@ Over the past two years I have gotten involved with climate-focused groups and i
 
 <strong style="font-size: 125%;"> Workshops and symposia </strong> 
 
-+ Upcoming: **MIT Environmental Solutions Initiative**
++ **MIT Environmental Solutions Initiative** (Upcoming June 18-19, 2020)  
 <a href="https://environmentalsolutions.mit.edu/pesmpp/">Plastics and the Environment: Science Meets Public Policy</a>
 
 + **Union of Concerned Scientists**  
@@ -32,7 +32,7 @@ _Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_
 
 <div class="container">
     	<div class="row">
-            <div class="col">
+            <div class="col-4-md">
                 <center>
             	<a href = "https://drawdown.org/drawdown-framework/drawdown-review-2020">Project Drawdown</a>
             	<figure>
@@ -40,7 +40,7 @@ _Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_
                 </figure>
                 </center>
             </div>
-            <div class="col"> 
+            <div class="col-4-md"> 
                 <center>
             	<a href = "https://energyfuturesinitiative.org/efi-reports">Energy Futures Initiative</a>
             	<figure>
@@ -48,7 +48,7 @@ _Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_
                 </figure>
                 </center>
 		    </div>
-		    <div class="col">
+		    <div class="col-4-md">
                 <center>
             	<a href = "http://bakkeconsolidated.org/Welcome.html">Gretchen Bakke - <i>The Grid</i></a>
             	<figure>
