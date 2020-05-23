@@ -7,8 +7,12 @@ subtitle:
 A large portion of my doctoral research focused on studying the _effects of air pollution_ on human health. Next, I want my work to _target the source of air pollution_, as well as so many of the other ailments afflicting our health and our planet's health: human activities that cause climate change. Air pollution is released from coal combustion and car exhaust, as well as forest fires worsened by extreme heat and drought like the ones that ravaged Australia earlier this year.  Whether its individual health issues like asthma, heat stroke, and novel infectious disease or problems on a global scale like sea level rise, ocean acidification, and loss of biodiversity, climate change plays a role in them all.  
 
 <center> 
+<figure>
 <img src="https://mzemplenyi.github.io/img/climatehealth.PNG"
      style="height:auto;">
+    <figcaption> <small> <i> Credit: Asthma and Allergy Foundation of America, https://www.aafa.org/climate-and-health/ </i> </small> </figcaption>
+</figure>
+
 </center> 
   
 Over the past two years I have gotten involved with climate-focused groups and initiatives like the Harvard Center for Climate, Health, and the Global Environment (C-CHANGE), the Harvard Forward campaign, the Graduate Environmental Action Team, and the Harvard Science Policy Group. I have also attended workshops and speaker events like those listed below to further my education on climate, energy, and sustainability issues.  
@@ -33,11 +37,12 @@ Summit on Energy and Clean Transportation in Massachusetts for Early Career Scie
 <a href = "https://iop.harvard.edu/forum/nuclear-energy-climate-and-bomb">Nuclear Energy: Climate and the Bomb</a>  
 _Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_  
 
+<!--
 <strong style="font-size: 125%;"> Informative resources </strong>  
 
 <div class="container">
     	<div class="row">
-            <div class="col-4-md">
+            <div class="col-md">
 
             	<a href = "https://drawdown.org/drawdown-framework/drawdown-review-2020">Project Drawdown</a>
             	<figure>
@@ -45,7 +50,7 @@ _Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_
                 </figure>
    
             </div>
-            <div class="col-4-md"> 
+            <div class="col-md-4"> 
 
             	<a href = "https://energyfuturesinitiative.org/efi-reports">Energy Futures Initiative</a>
             	<figure>
@@ -53,7 +58,7 @@ _Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_
                 </figure>
 
 		    </div>
-		    <div class="col-4-md">
+		    <div class="col-md-4">
 
             	<a href = "http://bakkeconsolidated.org/Welcome.html">Gretchen Bakke - <i>The Grid</i></a>
             	<figure>
@@ -61,6 +66,7 @@ _Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_
                 </figure>
 
 		    </div>
-	    </div><!-- row -->	
-</div> <!-- /container -->      
+	    </div> 	
+</div> 
+-->     
 
