@@ -25,19 +25,19 @@ _Speakers: Ernest Moniz, Dan Poneman, Meghan O'Sullivan_
 
 <div class="container">
     	<div class="row">
-            <div class="col-md-4">
+            <div class="col">
             	<a href = "https://drawdown.org/drawdown-framework/drawdown-review-2020">Project Drawdown</a>
             	<figure>
             	<img src="https://mzemplenyi.github.io/img/drawdownreview.jpg" style="width:auto;height:200px;" alt="Drawdown Review 2020">
                 </figure>
             </div>
-            <div class="col-md-4"> 
+            <div class="col"> 
             	<a href = "https://energyfuturesinitiative.org/efi-reports">Energy Futures Initiative</a>
             	<figure>
             	<img src="https://mzemplenyi.github.io/img/efi_clearingtheair.png" style="width:auto;height:200px;" alt="EFI Clearing The Air Report">
                 </figure>
 		    </div>
-		    <div class="col-md-4"> 
+		    <div class="col"> 
             	<a href = "http://bakkeconsolidated.org/Welcome.html">Gretchen Bakke - <i>The Grid</i></a>
             	<figure>
             	<img src="https://mzemplenyi.github.io/img/thegrid.PNG" style="width:auto;height:200px;" alt="The Grid">
