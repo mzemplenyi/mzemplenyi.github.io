@@ -11,7 +11,7 @@ subtitle:
 <strong style="font-size: 125%;"> Harvard T. H. Chan School of Public Health </strong>  
 _Recipient of 2020 Harvard Chan Teaching Assistant Award_   
 
-**Description:** During my graduate studies, I was a teaching assistant for the following courses taken by masters and doctoral students at the School of Public Health:  
+**Description:** During my graduate studies, I was a teaching assistant for the following courses taken by Master's and doctoral students at the School of Public Health:  
 + BST 254: Design and Monitoring of Adaptive Clinical Trials
 + BST 227: Statistical Genetics
 + BST 312: Statistical Consulting
