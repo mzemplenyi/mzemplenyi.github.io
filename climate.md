@@ -4,7 +4,7 @@ title: Climate
 subtitle: 
 ---
 
-A large portion of my doctoral research focused on studying the _effects of air pollution_ on human health. Next, I want my work to _target the source of air pollution_, as well as so many of the other ailments afflicting our health and our planet's health: human activities that cause climate change. Air pollution is released from coal combustion and car exhaust, as well as forest fires worsened by extreme heat and drought like the ones that ravaged Australia earlier this year.  Whether it's individual health issues like asthma, heat stroke, and novel infectious disease or problems on a global scale like sea level rise, ocean acidification, and loss of biodiversity, climate change plays a role in them all.  
+A large portion of my doctoral research focused on studying the _effects of air pollution_ on human health. Next, I want my work to _target the source of air pollution_, as well as so many of the other ailments afflicting our health and our planet's health: human activities that cause climate change. Air pollution is released from coal combustion and car exhaust, as well as forest fires worsened by extreme heat and drought like the ones that ravaged Australia in 2020.  Whether it's individual health issues like asthma, heat stroke, and novel infectious disease or problems on a global scale like sea level rise, ocean acidification, and loss of biodiversity, climate change plays a role in them all.  
 
 <center> 
 <figure>
@@ -19,8 +19,8 @@ Over the past two years I have been involved with climate-focused groups and ini
 
 <strong style="font-size: 125%;"> Workshops and symposia </strong> 
 
-+ **MIT Environmental Solutions Initiative** (Upcoming June 18-19, 2020)  
-<a href="https://environmentalsolutions.mit.edu/pesmpp/">Plastics and the Environment: Science Meets Public Policy</a>
++ **UC Irvine GPS-STEM program** (July 2020 - October 2020)  
+<a href="https://gps.bio.uci.edu/uci-public-policy-prep/">Science Policy and Advocacy for STEM Scientists Certificate Course</a>
 
 + **Union of Concerned Scientists**  
 Summit on Energy and Clean Transportation in Massachusetts for Early Career Scientists 
