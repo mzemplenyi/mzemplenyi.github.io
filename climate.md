@@ -15,9 +15,9 @@ A large portion of my doctoral research focused on studying the _effects of air 
 
 </center> 
   
-Over the past two years I have been involved with climate-focused groups and initiatives like the Harvard Center for Climate, Health, and the Global Environment (C-CHANGE), the Harvard Forward campaign, the Graduate Environmental Action Team, and the Harvard Science Policy Group. I have also attended workshops and speaker events like those listed below to further my education on climate, energy, and sustainability issues. I am actively looking for fellowships and full-time roles in climate-related research and policy, so if you are looking for a collaborator, please reach out to me (email: mzemplenyi@g.harvard.edu).
+Over the past two years I have been involved with climate-focused groups and initiatives like the Harvard Center for Climate, Health, and the Global Environment (C-CHANGE), the Harvard Forward campaign, the Graduate Environmental Action Team, and the Harvard Science Policy Group. I have also attended workshops and events like those listed below to further my education on climate, energy, and sustainability issues. I am actively looking for fellowships and full-time roles in climate-related research and policy, so if you are looking for a collaborator, please reach out to me (email: mzemplenyi@g.harvard.edu).
 
-<strong style="font-size: 125%;"> Workshops and symposia </strong> 
+<strong style="font-size: 125%;"> Select workshops and symposia </strong> 
 
 + **UC Irvine GPS-STEM program** (July 2020 - October 2020)  
 <a href="https://gps.bio.uci.edu/uci-public-policy-prep/">Science Policy and Advocacy for STEM Scientists Certificate Course</a>
