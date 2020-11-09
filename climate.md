@@ -4,7 +4,7 @@ title: Climate
 subtitle: 
 ---
 
-A large portion of my doctoral research focused on studying the _effects of air pollution_ on human health. Next, I want my work to _target the source of air pollution_, as well as so many of the other ailments afflicting our health and our planet's health: human activities that cause climate change. Air pollution is released from coal combustion and car exhaust, as well as forest fires worsened by extreme heat and drought like the ones that ravaged Australia in 2020.  Whether it's individual health issues like asthma, heat stroke, and novel infectious disease or problems on a global scale like sea level rise, ocean acidification, and loss of biodiversity, climate change plays a role in them all.  
+A large portion of my doctoral research focused on studying the _effects of air pollution_ on human health. Next, I want my work to _target the source of air pollution_, as well as so many of the other ailments afflicting our health and our planet's health: human activities that cause climate change. Air pollution is released from coal combustion and car exhaust, as well as forest fires worsened by extreme heat and drought like the ones that ravaged Australia and much of the Western United States in 2020.  Whether it's individual health issues like asthma, heat stroke, and novel infectious disease or problems on a global scale like sea level rise, ocean acidification, and loss of biodiversity, climate change plays a role in them all.  
 
 <center> 
 <figure>
@@ -14,8 +14,10 @@ A large portion of my doctoral research focused on studying the _effects of air 
 </figure>
 
 </center> 
+
+I am currently a fellow at the Urban Ocean Lab (UOL), a think tank whose mission is to develop climate and ocean policy for coastal cities. At UOL, my research has focused on offshore wind energy in the United States, as well as nature-based and hard infrastructure coastal resiliency solutions to protect cities from sea-level rise and storm water flooding.  
   
-Over the past two years I have been involved with climate-focused groups and initiatives like the Harvard Center for Climate, Health, and the Global Environment (C-CHANGE), the Harvard Forward campaign, the Graduate Environmental Action Team, and the Harvard Science Policy Group. I have also attended workshops and events like those listed below to further my education on climate, energy, and sustainability issues. I am actively looking for fellowships and full-time roles in climate-related research and policy, so if you are looking for a collaborator, please reach out to me (email: mzemplenyi@g.harvard.edu).
+Additionally, over the past two years I have been involved with climate-focused groups and initiatives like the Harvard Center for Climate, Health, and the Global Environment (C-CHANGE), the Harvard Forward campaign, the Graduate Environmental Action Team, and the Harvard Science Policy Group. I have also attended workshops and events like those listed below to further my education on climate, energy, and sustainability issues. 
 
 <strong style="font-size: 125%;"> Select workshops and symposia </strong> 
 
