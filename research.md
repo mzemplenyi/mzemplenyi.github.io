@@ -58,7 +58,7 @@ The goal of this work is to help researchers save time and resources by optimizi
 <center> <strong style="font-size: 135%;"> Additional projects </strong></center>
 
 
-+ Ratanawongphaibul K, Tsikata E, <u>Zemplenyi M</u>, Lee H, Margeta MA, Ondeck CL, Kim J, Pan BX, Petrakos P, Coleman AL, Yu F, de Boer JF, Chen TC. (2021). Earlier detection of glaucoma progression using high-density 3D spectral-domain optical coherence tomography optic nerve volume scans. <i>Ophthalmology Glaucoma. </i><a href="https://doi.org/10.1016/j.ogla.2021.03.010"><doi.org/10.1016/j.ogla.2021.03.010</a>.
++ Ratanawongphaibul K, Tsikata E, <u>Zemplenyi M</u>, Lee H, Margeta MA, Ondeck CL, Kim J, Pan BX, Petrakos P, Coleman AL, Yu F, de Boer JF, Chen TC. (2021). Earlier detection of glaucoma progression using high-density 3D spectral-domain optical coherence tomography optic nerve volume scans. <i>Ophthalmology Glaucoma. </i><a href="https://doi.org/10.1016/j.ogla.2021.03.010">doi.org/10.1016/j.ogla.2021.03.010</a>.
 
 + Margeta MA, Ratanawongphaibul K, Tsikata E, <u>Zemplenyi M</u>, Ondeck CL, Kim J, Coleman AL, Yu F, de Boer JF, Chen TC. (2021). Disc hemorrhages are associated with localized three-dimensional neuroretinal rim thickness progression in open-angle glaucoma. Under review at <i>American Journal of Ophthalmology</i>.
 
