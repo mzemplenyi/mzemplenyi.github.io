@@ -55,7 +55,8 @@ The goal of this work is to help researchers save time and resources by optimizi
 
 + <u>Zemplenyi M</u>. (2013). Design and analysis of a fractional factorial screening experiment to identify small molecule inducers of pancreatic beta cells. Undergraduate thesis.
 
-<center> <strong style="font-size: 135%;"> Additional projects </strong>  
+<center> <strong style="font-size: 135%;"> Additional projects </strong></center>
+
 
 + Ratanawongphaibul K, Tsikata E, <u>Zemplenyi M</u>, Lee H, Margeta MA, Ondeck CL, Kim J, Pan BX, Petrakos P, Coleman AL, Yu F, de Boer JF, Chen TC. (2021). Earlier detection of glaucoma progression using high-density 3D spectral-domain optical coherence tomography optic nerve volume scans. <i>Ophthalmology Glaucoma</i><a href = "doi.org/10.1016/j.ogla.2021.03.010"><https://doi.org/10.1016/j.ogla.2021.03.010>.
 
