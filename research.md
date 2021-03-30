@@ -27,7 +27,7 @@ In particular, I have focused on the effects of prenatal exposure to air polluti
 
 <strong style="font-size: 110%;"> Publications </strong>   
 
-+ <u>Zemplenyi M</u>, Meyer MJ, Cardenas A, France-Hivert M, Rifas-Shiman SL, Gibson H, Kloog I, Schwartz J, Oken E, DeMeo DL, Gold DR, Coull BA. Function-on-Function Regression for the Identification of Epigenetic Regions Exhibiting Windows of Susceptibility to Environmental Exposures. Under Review at <i>Annals of Applied Statistics</i>; <a href="https://arxiv.org/abs/1912.07359">pre-print</a>.
++ <u>Zemplenyi M</u>, Meyer MJ, Cardenas A, France-Hivert M, Rifas-Shiman SL, Gibson H, Kloog I, Schwartz J, Oken E, DeMeo DL, Gold DR, Coull BA. (2021). Function-on-Function Regression for the Identification of Epigenetic Regions Exhibiting Windows of Susceptibility to Environmental Exposures. To appear in <a href = "https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/"><i>Annals of Applied Statistics</i></a>; <a href="https://arxiv.org/abs/1912.07359">arXiv pre-print</a>.
 
 + Zhong J, Karlsson O, Wang G, Li J, Guo Y, Lin X, <u>Zemplenyi M</u>, Sanchez-Guerra M, Trevisi L, Urch B, Speck M, Liang L, Coull BA, Koutrakis P, Silverman F, Gold DR, Wu T, Baccarelli AA. (2017). B vitamins attenuate the epigenetic effects of ambient fine particles in a pilot human intervention trial, <a href="https://www.pnas.org/content/114/13/3503">PNAS, 114(13), 3503-3508</a>. 
 
@@ -49,7 +49,7 @@ The goal of this work is to help researchers save time and resources by optimizi
 
 <strong style="font-size: 110%;"> Publications </strong> 
 
-+ <u>Zemplenyi M</u>, Miller JW. Bayesian optimal experimental design for inferring causal structure. <i>In progress</i>.
++ <u>Zemplenyi M</u>, Miller JW. (2021). Bayesian optimal experimental design for inferring causal structure. Under review in <i>Bayesian Analysis</i>; <a href="https://arxiv.org/abs/2103.15229">arXiv pre-print</a>.
 
 + <u>Zemplenyi M</u>. (2013). Design and analysis of a fractional factorial screening experiment to identify small molecule inducers of pancreatic beta cells. Undergraduate thesis.
 
