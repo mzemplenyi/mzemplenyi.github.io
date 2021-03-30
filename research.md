@@ -6,7 +6,9 @@ subtitle:
 
 <!-- <i> Selected publications by topic listed below. A full list of publications is available <a href="https://scholar.google.com/citations?user=Pb7FyDkAAAAJ&hl=en">here</a>.</i> -->
 
-My doctoral research focuses on two different topics: (1) statistical methods for environmental health and epidemiology, and (2) experimental design methods for inferring causal structure. I am also involved in collaborations with Dr. Theresa Chen's research group at Massachusetts Eye and Ear to investigate how three-dimensional imaging of the eye can be used to detect glaucoma progression.   
+Code repositories for the projects described below can be found on [Github](https://github.com/mzemplenyi).
+
+My doctoral research focused on two different topics: (1) statistical methods for environmental health and epidemiology, and (2) experimental design methods for inferring causal structure. I am also involved in collaborations with Dr. Theresa Chen's research group at Massachusetts Eye and Ear to investigate how three-dimensional imaging of the eye can be used to detect glaucoma progression.   
 
 <center> <strong style="font-size: 135%;"> Statistical Methods for Environmental Epidemiology</strong>  </center>  
   
