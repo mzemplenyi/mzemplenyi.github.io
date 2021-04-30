@@ -15,7 +15,7 @@ A large portion of my doctoral research focused on studying the _effects of air 
 
 </center> 
 
-I am currently a fellow at the Urban Ocean Lab (UOL), a think tank whose mission is to develop climate and ocean policy for coastal cities. At UOL, my research has focused on offshore wind energy in the United States, as well as nature-based and hard infrastructure coastal resiliency solutions to protect cities from sea-level rise and storm water flooding.  
+I am currently a Project Manager at the Urban Ocean Lab (UOL), a think tank whose mission is to develop climate and ocean policy for coastal cities. At UOL, my research has focused on offshore wind energy in the United States, as well as nature-based coastal resiliency solutions to protect cities from sea-level rise and storm water flooding.  
   
 Additionally, over the past two years I have been involved with climate-focused groups and initiatives like the Harvard Center for Climate, Health, and the Global Environment (C-CHANGE), the Harvard Forward campaign, the Graduate Environmental Action Team, and the Harvard Science Policy Group. I have also attended workshops and events like those listed below to further my education on climate, energy, and sustainability issues. 
 
